@@ -545,6 +545,7 @@ h1 {
 }
 #content .product .invisible {
   visibility: hidden;
+  height: auto
 }
 @media (max-width: 767px) {
   #content .product .invisible img.img-responsive {
@@ -1338,7 +1339,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #348e7b;
+  color: black;
   text-decoration: underline;
 }
 a:focus {
@@ -1508,7 +1509,7 @@ label {
 .pagination > li > span:hover,
 .pagination > li > a:focus,
 .pagination > li > span:focus {
-  color: #348e7b;
+  color: Black;
   background-color: #eeeeee;
   border-color: #dddddd;
 }
@@ -1671,4 +1672,11 @@ address {
 }
 .h3red{
   color: rgb(231, 73, 0);
+}
+#productimg {
+  height: 453px
+}
+
+.product {
+  height: 453px
 }
