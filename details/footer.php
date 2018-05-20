@@ -10,10 +10,10 @@
 
                         <ul>
                             <li>
-                                <a href="text.php">About us</a>
+                                <a href="../text.php">About us</a>
                             </li>
                             <li>
-                                <a href="contact.php">Contact us</a>
+                                <a href="../contact.php">Contact us</a>
                             </li>
                         </ul>
                     </div>
@@ -81,7 +81,7 @@
                             <strong>United States</strong>
                         </p>
 
-                        <a href="contact.php">Go to contact page</a>
+                        <a href="../contact.php">Go to contact page</a>
 
                         <hr class="hidden-md hidden-lg">
 

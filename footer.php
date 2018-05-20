@@ -1,8 +1,7 @@
 
-
         <!-- *** FOOTER ***
  _________________________________________________________ -->
-        <div id="footer" data-animate="fadeInUp">
+ <div id="footer" data-animate="fadeInUp">
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 col-sm-6">
@@ -10,10 +9,10 @@
 
                         <ul>
                             <li>
-                                <a href="text.php">About us</a>
+                                <a href="text.html">About us</a>
                             </li>
                             <li>
-                                <a href="contact.php">Contact us</a>
+                                <a href="contact.html">Contact us</a>
                             </li>
                         </ul>
                     </div>
@@ -27,13 +26,13 @@
 
                         <ul>
                             <li>
-                                <a href="category.php">Sample</a>
+                                <a href="category.html">Sample</a>
                             </li>
                             <li>
-                                <a href="category.php">Sample</a>
+                                <a href="category.html">Sample</a>
                             </li>
                             <li>
-                                <a href="category.php">Sample</a>
+                                <a href="category.html">Sample</a>
                             </li>
                         </ul>
 
@@ -49,13 +48,13 @@
 
                         <ul>
                             <li>
-                                <a href="category.php">Sample</a>
+                                <a href="category.html">Sample</a>
                             </li>
                             <li>
-                                <a href="category.php">Sample</a>
+                                <a href="category.html">Sample</a>
                             </li>
                             <li>
-                                <a href="category.php">Sample</a>
+                                <a href="category.html">Sample</a>
                             </li>
                         </ul>
 
@@ -81,7 +80,7 @@
                             <strong>United States</strong>
                         </p>
 
-                        <a href="contact.php">Go to contact page</a>
+                        <a href="contact.html">Go to contact page</a>
 
                         <hr class="hidden-md hidden-lg">
 
@@ -172,15 +171,14 @@
 
     <!-- *** SCRIPTS TO INCLUDE ***
  _________________________________________________________ -->
-    <script src="../js/jquery-1.11.0.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
-    <script src="../js/jquery.cookie.js"></script>
-    <script src="../js/waypoints.min.js"></script>
-    <script src="../js/modernizr.js"></script>
-    <script src="../js/bootstrap-hover-dropdown.js"></script>
-    <script src="../js/owl.carousel.min.js"></script>
-    <script src="../js/front.js"></script>
-
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/waypoints.min.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/bootstrap-hover-dropdown.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/front.js"></script>
 
     </body>
 

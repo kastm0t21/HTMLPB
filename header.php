@@ -20,21 +20,21 @@
     <link href='http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100' rel='stylesheet' type='text/css'>
 
     <!-- styles -->
-    <link href="../css/font-awesome.css" rel="stylesheet">
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
-    <link href="../css/animate.min.css" rel="stylesheet">
-    <link href="../css/owl.carousel.css" rel="stylesheet">
-    <link href="../css/owl.theme.css" rel="stylesheet">
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/animate.min.css" rel="stylesheet">
+    <link href="css/owl.carousel.css" rel="stylesheet">
+    <link href="css/owl.theme.css" rel="stylesheet">
 
     <!-- theme stylesheet -->
-    <link href="../css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+    <link href="css/style.default.css" rel="stylesheet" id="theme-stylesheet">
 
     <!-- your stylesheet with modifications -->
-    <link href="../css/custom.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
 
-    <script src="../js/respond.min.js"></script>
+    <script src="js/respond.min.js"></script>
 
-    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
 
 
 
@@ -49,9 +49,9 @@
         <div class="container">
             <div class="navbar-header">
 
-                <a class="navbar-brand home" href="../index.php" data-animate-hover="bounce">
-                    <img src="../img/logo.png" alt="Party Bargains Logo" class="hidden-xs">
-                    <img src="../img/logo-small.png" alt="Party Bargains Logo" class="visible-xs">
+                <a class="navbar-brand home" href="index.html" data-animate-hover="bounce">
+                    <img src="img/logo.png" alt="Party Bargains Logo" class="hidden-xs">
+                    <img src="img/logo-small.png" alt="Party Bargains Logo" class="visible-xs">
                     <span class="sr-only">Party Bargains - go to homepage</span>
                 </a>
                 <div class="navbar-buttons">
@@ -67,7 +67,7 @@
 
                 <ul class="nav navbar-nav navbar-left">
                     <li>
-                        <a href="../index.php">Home</a>
+                        <a href="index.html">Home</a>
                     </li>
                     <li class="dropdown yamm-fw">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="200">All Products
@@ -81,52 +81,52 @@
                                             <h5>Plastic Plates</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="plasticplates1.php">All Plastic Plates</a>
+                                                    <a href="categories/plasticplates1.html">All Plastic Plates</a>
                                                 </li>
                                                 <li>
-                                                    <a href="squareplates.php">Square Plates</a>
+                                                    <a href="categories/squareplates.html">Square Plates</a>
                                                 </li>
                                                 <li>
-                                                    <a href="budgetplates.php">Everyday Budget Plates</a>
+                                                    <a href="categories/budgetplates.html">Everyday Budget Plates</a>
                                                 </li>
                                                 <li>
-                                                    <a href="roundplates.php">Round Plates</a>
+                                                    <a href="categories/roundplates.html">Round Plates</a>
                                                 </li>
                                             </ul>
                                             <h5>Food Storage Bags & Containers</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allcontainers1.php">All Food Storage Bags & Containers</a>
+                                                    <a href="categories/allcontainers1.html">All Food Storage Bags & Containers</a>
                                                 </li>
                                                 <li>
-                                                    <a href="bags.php">Food Storage Bags</a>
+                                                    <a href="categories/bags.html">Food Storage Bags</a>
                                                 </li>
                                                 <li>
-                                                    <a href="containers.php">Food Storage Containers</a>
+                                                    <a href="categories/containers.html">Food Storage Containers</a>
                                                 </li>
                                                 <li>
-                                                    <a href="round.php">Round Bento Containers</a>
+                                                    <a href="categories/round.html">Round Bento Containers</a>
                                                 </li>
                                                 <li>
-                                                    <a href="rectangle.php">Rectangle Bento Containers</a>
+                                                    <a href="categories/rectangle.html">Rectangle Bento Containers</a>
                                                 </li>
                                             </ul>
                                             <h5>Serving Bowls</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allbowls.php">All Serving Bowls</a>
+                                                    <a href="categories/allbowls.html">All Serving Bowls</a>
                                                 </li>
                                                 <li>
                                                     <a href="#">Unbreakable Plastic Serving Bowls</a>
                                                 </li>
                                                 <li>
-                                                    <a href="angled.php">Hard Plastic Angled Serving Bowls</a>
+                                                    <a href="categories/angled.html">Hard Plastic Angled Serving Bowls</a>
                                                 </li>
                                                 <li>
-                                                    <a href="unbreakablesquare.php">Square Bottom Unbreakable Plastic Serving Bowls</a>
+                                                    <a href="categories/unbreakablesquare.html">Square Bottom Unbreakable Plastic Serving Bowls</a>
                                                 </li>
                                                 <li>
-                                                    <a href="roundbowls.php">Round Plastic Serving Bowls</a>
+                                                    <a href="categories/roundbowls.html">Round Plastic Serving Bowls</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -134,105 +134,99 @@
                                             <h5>Aluminum</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allaluminum1.php">All Aluminum</a>
+                                                    <a href="categories/allaluminum1.html">All Aluminum</a>
                                                 </li>
                                                 <li>
-                                                    <a href="foils.php">Aluminum Foils</a>
+                                                    <a href="categories/foils.html">Aluminum Foils</a>
                                                 </li>
                                                 <li>
-                                                    <a href="roundfoils.php">Round Aluminum Pans</a>
+                                                    <a href="categories/roundfoils.html">Round Aluminum Pans</a>
                                                 </li>
                                                 <li>
-                                                    <a href="rectanglefoils.php">Rectangle Aluminum Pans</a>
+                                                    <a href="categories/rectanglefoils.html">Rectangle Aluminum Pans</a>
                                                 </li>
                                             </ul>
                                             <h5>Disposable Plastic Cutlery</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allcutlery1.php">All Disposable Plastic Cutlery</a>
+                                                    <a href="categories/allcutlery1.html">All Disposable Plastic Cutlery</a>
                                                 </li>
                                                 <li>
-                                                    <a href="cutleryclear.php">Clear</a>
+                                                    <a href="categories/cutleryclear.html">Clear</a>
                                                 </li>
                                                 <li>
-                                                    <a href="cutlerywhite.php">White</a>
+                                                    <a href="categories/cutlerywhite.html">White</a>
                                                 </li>
                                                 <li>
-                                                    <a href="cutlerysilver.php">Silver</a>
+                                                    <a href="categories/cutlerysilver.html">Silver</a>
                                                 </li>
                                                 <li>
-                                                    <a href="cutlerygold.php">Gold</a>
+                                                    <a href="categories/cutlerygold.html">Gold</a>
                                                 </li>
                                             </ul>
                                             <h5>Drink Wares</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="alldrinkwares1.php">All Drink Wares</a>
+                                                    <a href="categories/alldrinkwares1.html">All Drink Wares</a>
                                                 </li>
                                                 <li>
-                                                    <a href="tumblers.php">Tumblers</a>
+                                                    <a href="categories/tumblers.html">Tumblers</a>
                                                 </li>
                                                 <li>
-                                                    <a href="unbreakablelikeglass.php">Unbreakable Like Real Cups</a>
+                                                    <a href="categories/unbreakablelikeglass.html">Unbreakable Like Real Cups</a>
                                                 </li>
                                                 <li>
-                                                    <a href="redplasticcups.php">Red Plastic Party Cups</a>
+                                                    <a href="categories/redplasticcups.html">Red Plastic Party Cups</a>
                                                 </li>
                                                 <li>
-                                                    <a href="coffeecups.php">Coffee Cups & Mugs</a>
+                                                    <a href="categories/coffeecups.html">Coffee Cups & Mugs</a>
                                                 </li>
                                             </ul>
                                         </div>
                                         <div class="col-sm-3">
-                                            <h5>Party Combo Sets</h5>
-                                            <ul>
-                                                <li>
-                                                    <a href="allserving.php">All Party Combo Sets</a>
-                                                </li>
-                                            </ul>
                                             <h5>Serving Trays & Utensils</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allserving.php">All Serving Trays & Utensils</a>
+                                                    <a href="categories/allserving.html">All Serving Trays & Utensils</a>
                                                 </li>
                                                 <li>
-                                                    <a href="servingtrays.php">Serving Trays</a>
+                                                    <a href="categories/servingtrays.html">Serving Trays</a>
                                                 </li>
                                                 <li>
-                                                    <a href="servingutensils.php">Serving Utensils</a>
+                                                    <a href="categories/servingutensils.html">Serving Utensils</a>
                                                 </li>
                                             </ul>
                                             <h5>Household Products</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="household.php">All Household Products</a>
+                                                    <a href="categories/household.html">All Household Products</a>
                                                 </li>
                                                 <li>
-                                                    <a href="gloves.php">Gloves</a>
+                                                    <a href="categories/gloves.html">Gloves</a>
                                                 </li>
                                                 <li>
-                                                    <a href="straws.php">Straws</a>
+                                                    <a href="categories/straws.html">Straws</a>
                                                 </li>
                                                 <li>
-                                                    <a href="steelwools.php">Steelwools</a>
+                                                    <a href="categories/steelwools.html">Steelwools</a>
                                                 </li>
                                                 <li>
-                                                    <a href="measuringcups.php">Disposable Measuring Cups</a>
+                                                    <a href="categories/measuringcups.html">Disposable Measuring Cups</a>
                                                 </li>
                                                 <li>
-                                                    <a href="parchmentpaper.php">Parchment Paper</a>
+                                                    <a href="categories/parchmentpaper.html">Parchment Paper</a>
                                                 </li>
                                             </ul>
                                             <h5>Table Covers</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="tablecovers.php">All Table Covers</a>
+                                                    <a href="categories/tablecovers.html">All Table Covers</a>
                                                 </li>
                                             </ul>
                                             <h5>Candles</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="candles.php">All Candles</a>
+                                                    <a href="categories/candles.html">All Candles</a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -240,61 +234,61 @@
                                             <h5>Mini Wares</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allminiwares1.php">All Mini Wares</a>
+                                                    <a href="categories/allminiwares1.html">All Mini Wares</a>
                                                 </li>
                                                 <li>
-                                                    <a href="miniwareclear.php">Clear</a>
+                                                    <a href="categories/miniwareclear.html">Clear</a>
                                                 </li>
                                                 <li>
-                                                    <a href="miniwarewhite.php">White</a>
+                                                    <a href="categories/miniwarewhite.html">White</a>
                                                 </li>
                                                 <li>
-                                                    <a href="miniwaresilver.php">Silver</a>
+                                                    <a href="categories/miniwaresilver.html">Silver</a>
                                                 </li>
                                             </ul>
                                             <h5>Patterns & Collections</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="simchacol.php">Simcha Collection</a>
+                                                    <a href="categories/simchacol.html">Simcha Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="mystylecol.php">My Style Collection</a>
+                                                    <a href="categories/mystylecol.html">My Style Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="modcol.php">Mod Collection</a>
+                                                    <a href="categories/modcol.html">Mod Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="hotelwarecol.php">Hotel Ware Collection</a>
+                                                    <a href="categories/hotelwarecol.html">Hotel Ware Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="mypartycol.php">My Party Collection</a>
+                                                    <a href="categories/mypartycol.html">My Party Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="christmascol.php">Christmas Collection</a>
+                                                    <a href="categories/christmascol.html">Christmas Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="glamourcol.php">Glamour Collection</a>
+                                                    <a href="categories/glamourcol.html">Glamour Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="royaltycol.php">Royalty Collection</a>
+                                                    <a href="categories/royaltycol.html">Royalty Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="elegantwarecol.php">Elegant Ware Collection</a>
+                                                    <a href="categories/elegantwarecol.html">Elegant Ware Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="silvertouchcol.php">Silver Touch Collection</a>
+                                                    <a href="categories/silvertouchcol.html">Silver Touch Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="imperialcol.php">Imperial Collection</a>
+                                                    <a href="categories/imperialcol.html">Imperial Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="lacecol.php">Lace Collection</a>
+                                                    <a href="categories/lacecol.html">Lace Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="signaturecol.php">Signature Collection</a>
+                                                    <a href="categories/signaturecol.html">Signature Collection</a>
                                                 </li>
                                                 <li>
-                                                    <a href="signaturegoldcol.php">Signature Gold Collection</a>
+                                                    <a href="categories/signaturegoldcol.html">Signature Gold Collection</a>
                                                 </li>
                                             </ul>
                                         </div>
