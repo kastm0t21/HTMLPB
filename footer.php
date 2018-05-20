@@ -9,10 +9,10 @@
 
                         <ul>
                             <li>
-                                <a href="text.html">About us</a>
+                                <a href="text.php">About us</a>
                             </li>
                             <li>
-                                <a href="contact.html">Contact us</a>
+                                <a href="contact.php">Contact us</a>
                             </li>
                         </ul>
                     </div>
@@ -26,13 +26,13 @@
 
                         <ul>
                             <li>
-                                <a href="category.html">Sample</a>
+                                <a href="category.php">Sample</a>
                             </li>
                             <li>
-                                <a href="category.html">Sample</a>
+                                <a href="category.php">Sample</a>
                             </li>
                             <li>
-                                <a href="category.html">Sample</a>
+                                <a href="category.php">Sample</a>
                             </li>
                         </ul>
 
@@ -48,13 +48,13 @@
 
                         <ul>
                             <li>
-                                <a href="category.html">Sample</a>
+                                <a href="category.php">Sample</a>
                             </li>
                             <li>
-                                <a href="category.html">Sample</a>
+                                <a href="category.php">Sample</a>
                             </li>
                             <li>
-                                <a href="category.html">Sample</a>
+                                <a href="category.php">Sample</a>
                             </li>
                         </ul>
 
@@ -80,7 +80,7 @@
                             <strong>United States</strong>
                         </p>
 
-                        <a href="contact.html">Go to contact page</a>
+                        <a href="contact.php">Go to contact page</a>
 
                         <hr class="hidden-md hidden-lg">
 
@@ -182,4 +182,4 @@
 
     </body>
 
-    </html>
+    </php>
