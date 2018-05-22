@@ -184,6 +184,12 @@
                                             </ul>
                                         </div>
                                         <div class="col-sm-3">
+                                            <h5>Party Combo Sets</h5>
+                                            <ul>
+                                                <li>
+                                                    <a href="categories/partycombosets.php">All Party Combo Sets</a>
+                                                </li>
+                                            </ul>
                                             <h5>Serving Trays & Utensils</h5>
                                             <ul>
                                                 <li>

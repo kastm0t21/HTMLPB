@@ -187,7 +187,7 @@
                                             <h5>Party Combo Sets</h5>
                                             <ul>
                                                 <li>
-                                                    <a href="allserving.php">All Party Combo Sets</a>
+                                                    <a href="partycombosets.php">All Party Combo Sets</a>
                                                 </li>
                                             </ul>
                                             <h5>Serving Trays & Utensils</h5>
