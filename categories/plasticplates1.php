@@ -72,32 +72,32 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front container-fluid">
-                                        <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 7.5 Inch  Pack of 40.php">
+                                        <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 6 Inch  Pack of 40.php">
                                             <img src="../img/products/plates/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Dinnerware - 6 Inch  Pack of 40/61VUXOnDebL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 7.5 Inch  Pack of 40.php">
+                                        <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 6 Inch  Pack of 40.php">
                                             <img src="../img/products/plates/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Dinnerware - 6 Inch  Pack of 40/61gnj1HmM9L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 7.5 Inch  Pack of 40.php"
+                            <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 6 Inch  Pack of 40.php"
                                 class="invisible">
                                 <img src="../img/products/plates/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Dinnerware - 6 Inch  Pack of 40/61VUXOnDebL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 7.5 Inch  Pack of 40.php">Party Bargains White Plastic Plates | Elegant Blue Silver Border Durable Glamour Collection
+                                    <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 6 Inch  Pack of 40.php">Party Bargains White Plastic Plates | Elegant Blue Silver Border Durable Glamour Collection
                                         China-like Plate Perfect for Wedding and Party Dinnerware - 6 Inch | Pack of 40</a>
                                 </h5>
                                 <p class="price">$19.59</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 7.5 Inch  Pack of 40.php"
+                                    <a href="../details/Party Bargains White Plastic Plates  Elegant Blue Silver Border Durable Glamour Collection China-like Plate Perfect for Wedding and Party Dinnerware - 6 Inch  Pack of 40.php"
                                         class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
@@ -330,33 +330,33 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.[j[">
+                                        <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.php">
                                             <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count/717n4QcXSGL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.[j[">
+                                        <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.php">
                                             <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count/61roKVGraTL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.[j["
+                            <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.php"
                                 class="invisible">
                                 <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count/717n4QcXSGL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.[j[">Party Bargains Plastic Dinner Plates | Premium Quality Disposable Clear Dinnerware Ideal
+                                    <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.php">Party Bargains Plastic Dinner Plates | Premium Quality Disposable Clear Dinnerware Ideal
                                         for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch | 120 Count
                                     </a>
                                 </h5>
                                 <p class="price">$15.03</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.[j["
+                                    <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.php"
                                         class="btn btn-primary">View Details</a>
                                 </p>
 
