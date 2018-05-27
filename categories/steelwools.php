@@ -73,29 +73,29 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3DWQ">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/81CpkC6huCL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3DWQ">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71voroA8UhL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="https://www.amazon.com/dp/B00GOG3DWQ" class="invisible">
                                         <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/81CpkC6huCL._SL1500_.jpg" alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Steel Wool Pads | Perfect to Remove Grease, Oil and dirt stains
+                                            <a href="https://www.amazon.com/dp/B00GOG3DWQ">Party Bargains Steel Wool Pads | Perfect to Remove Grease, Oil and dirt stains
                                                 from pots, plates, cups, Cookware, glassware and bakeware Kitchen Cleaner
                                                 - Grade:0 | Pack of 16</a>
                                         </h5>
                                         <p class="price">$6.99</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="https://www.amazon.com/dp/B00GOG3DWQ" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>
@@ -109,29 +109,29 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3C6S">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/81R1L7jejNL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3C6S">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71voroA8UhL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="https://www.amazon.com/dp/B00GOG3C6S" class="invisible">
                                         <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/81R1L7jejNL._SL1500_.jpg" alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Steel Wool Pads | Stainless steel Perfect to Remove grease, Oil
+                                            <a href="https://www.amazon.com/dp/B00GOG3C6S">Party Bargains Steel Wool Pads | Stainless steel Perfect to Remove grease, Oil
                                                 and dirt stains from pots, plates, cups, Cookware, glassware and bakeware
                                                 Kitchen Cleaner - Grade:00 | Pack of 16</a>
                                         </h5>
                                         <p class="price">$6.99</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="https://www.amazon.com/dp/B00GOG3C6S" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>
@@ -145,29 +145,29 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3BKK">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71KwOnpXs7L._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3BKK">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71voroA8UhL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="https://www.amazon.com/dp/B00GOG3BKK" class="invisible">
                                         <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71KwOnpXs7L._SL1500_.jpg" alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Steel Wool Pads | Stainless steel Perfect to Remove grease, Oil
+                                            <a href="https://www.amazon.com/dp/B00GOG3BKK">Party Bargains Steel Wool Pads | Stainless steel Perfect to Remove grease, Oil
                                                 and dirt stains from pots, plates, cups, Cookware, glassware and bakeware
                                                 Kitchen Cleaner - Grade:000 | Pack of 16</a>
                                         </h5>
                                         <p class="price">$6.99</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="https://www.amazon.com/dp/B00GOG3BKK" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>
@@ -181,29 +181,29 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3AQK">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/81WsmcpKArL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3AQK">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71voroA8UhL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="https://www.amazon.com/dp/B00GOG3AQK" class="invisible">
                                         <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/81WsmcpKArL._SL1500_.jpg" alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Steel Wool Pads | Perfect to Remove rease, Oil and dirt stains
+                                            <a href="https://www.amazon.com/dp/B00GOG3AQK">Party Bargains Steel Wool Pads | Perfect to Remove rease, Oil and dirt stains
                                                 from pots, plates, cups, Cookware, glassware and bakeware Kitchen Cleaner
                                                 - Grade:1 | Pack of 16</a>
                                         </h5>
                                         <p class="price">$6.99</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="https://www.amazon.com/dp/B00GOG3AQK" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>
@@ -217,29 +217,29 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3DGW">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/815UyKiQW1L._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="https://www.amazon.com/dp/B00GOG3DGW">
                                                     <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/71voroA8UhL._SL1500_.jpg" alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="https://www.amazon.com/dp/B00GOG3DGW" class="invisible">
                                         <img src="../img/products/house/Party Bargains Steel Wool Pads  - Grade0  Pack of 16/815UyKiQW1L._SL1500_.jpg" alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Steel Wool Pads | Stainless steel Perfect to Remove grease, Oil
+                                            <a href="https://www.amazon.com/dp/B00GOG3DGW">Party Bargains Steel Wool Pads | Stainless steel Perfect to Remove grease, Oil
                                                 and dirt stains from pots, plates, cups, Cookware, glassware and bakeware
                                                 Kitchen Cleaner - Grade:2 | Pack of 16</a>
                                         </h5>
                                         <p class="price">$6.99</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="https://www.amazon.com/dp/B00GOG3DGW" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>

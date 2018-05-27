@@ -258,7 +258,8 @@
                             <div class="text">
                                 <h5>
                                     <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">Party Bargains Plastic Serving Bowl, Color: Crystal Clear, Size: 9x9x4 Inch Large, Count:
-                                        4/Pack</a>
+                                        4/Pack
+                                    </a>
                                 </h5>
                                 <p class="price">$16.00</p>
                                 <p class="buttons">
@@ -377,6 +378,44 @@
                                 <p class="buttons">
                                     <a href="../details/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round White  Pack Of 40.php"
                                         class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php">
+                                            <img src="../img/products/bowls/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Dinnerware (6 OZ BOWL) 10 pack/51MEnp2D1iL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php">
+                                            <img src="../img/products/bowls/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Dinnerware (6 OZ BOWL) 10 pack/51MEnp2D1iL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php" class="invisible">
+                                <img src="../img/products/bowls/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Dinnerware (6 OZ BOWL) 10 pack/51MEnp2D1iL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php">Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates,
+                                        White with Blue/Silver Border (6 OZ BOWL) 10 pack</a>
+                                </h5>
+                                <p class="price">$19.92</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>

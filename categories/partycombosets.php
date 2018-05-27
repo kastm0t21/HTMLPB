@@ -310,23 +310,23 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="https://www.amazon.com/dp/B01MSYQGZD">
+                                        <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">
                                             <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/71Kz6ZOsdPL._SL1500_.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="https://www.amazon.com/dp/B01MSYQGZD">
+                                        <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">
                                             <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/81e4UHPL6vL._SL1500_.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="https://www.amazon.com/dp/B01MSYQGZD" class="invisible">
+                            <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php" class="invisible">
                                 <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/71Kz6ZOsdPL._SL1500_.jpg" alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="https://www.amazon.com/dp/B01MSYQGZD">Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery | Signature
+                                    <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery | Signature
                                         Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs | Combo
                                         Pack for 120 People</a>
                                 </h5>
@@ -334,7 +334,7 @@
                                     <small>+ $32.99</small>
                                 </p>
                                 <p class="buttons">
-                                    <a href="https://www.amazon.com/dp/B01MSYQGZD" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
