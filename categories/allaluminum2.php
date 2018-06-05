@@ -72,71 +72,32 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack Of 40 Sets/61JVW22+VzL._SL1320_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack Of 40 Sets/71oFCIi5haL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="detail.php" class="invisible">
-                                        <img src="../img/products/aluminum/Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack Of 40 Sets/61JVW22+VzL._SL1320_.jpg"
-                                            alt="" class="img-responsive">
-                                    </a>
-                                    <div class="text">
-                                        <h5>
-                                            <a href="detail.php">Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack
-                                                Of 40 Sets
-                                            </a>
-                                        </h5>
-                                        <p class="price">$12.49</p>
-                                        <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
-                                        </p>
-
-                                    </div>
-                                    <!-- /.text -->
-                                </div>
-                                <!-- /.product -->
-                            </div>
-
-                            <div class="col-md-4 col-sm-6">
-                                <div class="product">
-                                    <div class="flip-container">
-                                        <div class="flipper">
-                                            <div class="front">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100.php">
                                                     <img src="../img/products/aluminum/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100/81zYnceecEL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100.php">
                                                     <img src="../img/products/aluminum/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100/71yhysB3OkL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="../details/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100.php" class="invisible">
                                         <img src="../img/products/aluminum/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100/81zYnceecEL._SL1500_.jpg"
                                             alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Ramekins Muffin Cups | Durable Quality Disposable Aluminum Foil
+                                            <a href="../details/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100.php">Party Bargains Ramekins Muffin Cups | Durable Quality Disposable Aluminum Foil
                                                 Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz
                                                 | Pack of 100</a>
                                         </h5>
-                                        <p class="price">$14.49</p>
+                                        <p class="price">$15.52</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="../details/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100.php" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>
@@ -150,218 +111,31 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100/81zYnceecEL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100/71yhysB3OkL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="detail.php" class="invisible">
-                                        <img src="../img/products/aluminum/Party Bargains Ramekins Muffin Cups  Durable Quality Disposable Aluminum Foil Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz  Pack of 100/81zYnceecEL._SL1500_.jpg"
-                                            alt="" class="img-responsive">
-                                    </a>
-                                    <div class="text">
-                                        <h5>
-                                            <a href="detail.php">Party Bargains Ramekins Muffin Cups | Durable Quality Disposable Aluminum Foil
-                                                Muffin Cup, Perfect for Baking, Freezing, Broiling & Preservation - 4 oz
-                                                | Pack of 100</a>
-                                        </h5>
-                                        <p class="price">$14.49</p>
-                                        <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
-                                        </p>
-
-                                    </div>
-                                    <!-- /.text -->
-                                </div>
-                                <!-- /.product -->
-                            </div>
-
-                            <div class="col-md-4 col-sm-6">
-                                <div class="product">
-                                    <div class="flip-container">
-                                        <div class="flipper">
-                                            <div class="front">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Party Bargains Disposable Round Aluminum Foil Pans Size 9 Inch  Pack Of 50/813RYb+zYHL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Party Bargains Disposable Round Aluminum Foil Pans Size 9 Inch  Pack Of 50/71hRz5qaohL._SL1000_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="detail.php" class="invisible">
-                                        <img src="../img/products/aluminum/Party Bargains Disposable Round Aluminum Foil Pans Size 9 Inch  Pack Of 50/813RYb+zYHL._SL1500_.jpg"
-                                            alt="" class="img-responsive">
-                                    </a>
-                                    <div class="text">
-                                        <h5>
-                                            <a href="detail.php">Party Bargains Disposable Round Aluminum Foil Pans - Size 9 Inch | Pack Of 50</a>
-                                        </h5>
-                                        <p class="price">$12.93</p>
-                                        <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
-                                        </p>
-
-                                    </div>
-                                    <!-- /.text -->
-                                </div>
-                                <!-- /.product -->
-                            </div>
-
-                            <div class="col-md-4 col-sm-6">
-                                <div class="product">
-                                    <div class="flip-container">
-                                        <div class="flipper">
-                                            <div class="front">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50.php">
                                                     <img src="../img/products/aluminum/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50/81gNju1FH2L._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50.php">
                                                     <img src="../img/products/aluminum/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50/71nCE0nciwL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="../details/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50.php" class="invisible">
                                         <img src="../img/products/aluminum/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50/81gNju1FH2L._SL1500_.jpg"
                                             alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Aluminum Foil Tart / Pie Pans | Perfect for Homemade Cakes & Pies
+                                            <a href="../details/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50.php">Party Bargains Aluminum Foil Tart / Pie Pans | Perfect for Homemade Cakes & Pies
                                                 - 5.5 Inch | Pack of 50</a>
                                         </h5>
-                                        <p class="price">$9.99</p>
+                                        <p class="price">$10.42</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
-                                        </p>
-
-                                    </div>
-                                    <!-- /.text -->
-                                </div>
-                                <!-- /.product -->
-                            </div>
-
-                            <div class="col-md-4 col-sm-6">
-                                <div class="product">
-                                    <div class="flip-container">
-                                        <div class="flipper">
-                                            <div class="front">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/JetFoil Commercial Foodservice Aluminum Foil 1000ft, 12 Width X 1000' Length/71KzcAoEFHL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/JetFoil Commercial Foodservice Aluminum Foil 1000ft, 12 Width X 1000' Length/71KzcAoEFHL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="detail.php" class="invisible">
-                                        <img src="../img/products/aluminum/JetFoil Commercial Foodservice Aluminum Foil 1000ft, 12 Width X 1000' Length/71KzcAoEFHL._SL1500_.jpg"
-                                            alt="" class="img-responsive">
-                                    </a>
-                                    <div class="text">
-                                        <h5>
-                                            <a href="detail.php">JetFoil Commercial Foodservice Aluminum Foil 1000ft, 12" Width X 1000' Length</a>
-                                        </h5>
-                                        <p class="price">$27.39</p>
-                                        <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
-                                        </p>
-
-                                    </div>
-                                    <!-- /.text -->
-                                </div>
-                                <!-- /.product -->
-                            </div>
-
-                            <div class="col-md-4 col-sm-6">
-                                <div class="product">
-                                    <div class="flip-container">
-                                        <div class="flipper">
-                                            <div class="front">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Jetfoil precut Aluminum Foil 12 x 10-34 pre-cut - 200 Count/71wNODoe3LL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/Jetfoil precut Aluminum Foil 12 x 10-34 pre-cut - 200 Count/71wNODoe3LL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="detail.php" class="invisible">
-                                        <img src="../img/products/aluminum/Jetfoil precut Aluminum Foil 12 x 10-34 pre-cut - 200 Count/71wNODoe3LL._SL1500_.jpg"
-                                            alt="" class="img-responsive">
-                                    </a>
-                                    <div class="text">
-                                        <h5>
-                                            <a href="detail.php">Jetfoil precut Aluminum Foil 12 x 10-3/4 pre-cut - 200 Count</a>
-                                        </h5>
-                                        <p class="price">$9.49</p>
-                                        <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
-                                        </p>
-
-                                    </div>
-                                    <!-- /.text -->
-                                </div>
-                                <!-- /.product -->
-                            </div>
-
-                            <div class="col-md-4 col-sm-6">
-                                <div class="product">
-                                    <div class="flip-container">
-                                        <div class="flipper">
-                                            <div class="front">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/JetFoil ULTRA Heavy Duty Foodservice Aluminum Foil 500ft, 18 Width X 500' Length/71DmdONDZxL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                            <div class="back">
-                                                <a href="detail.php">
-                                                    <img src="../img/products/aluminum/JetFoil ULTRA Heavy Duty Foodservice Aluminum Foil 500ft, 18 Width X 500' Length/71DmdONDZxL._SL1500_.jpg"
-                                                        alt="" class="img-responsive">
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <a href="detail.php" class="invisible">
-                                        <img src="../img/products/aluminum/JetFoil ULTRA Heavy Duty Foodservice Aluminum Foil 500ft, 18 Width X 500' Length/71DmdONDZxL._SL1500_.jpg"
-                                            alt="" class="img-responsive">
-                                    </a>
-                                    <div class="text">
-                                        <h5>
-                                            <a href="detail.php">JetFoil ULTRA Heavy Duty Foodservice Aluminum Foil 500ft, 18" Width X 500' Length</a>
-                                        </h5>
-                                        <p class="price">$32.99</p>
-                                        <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="../details/Party Bargains Aluminum Foil Tart  Pie Pans  Perfect for Homemade Cakes & Pies - 5.5 Inch  Pack of 50.php" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>

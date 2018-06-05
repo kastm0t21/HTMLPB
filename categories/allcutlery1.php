@@ -73,30 +73,30 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE).php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE)/71f6VQespZL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE).php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE)/71bAwpK01kL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE).php" class="invisible">
                                 <img src="../img/products/cutlery/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE)/71f6VQespZL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Cutlery set, Color: Clear, Count: 360 Pcs (SAPPHIRE)</a>
+                                    <a href="../details/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE).php">Party Bargains Disposable Cutlery set, Color: Clear, Count: 360 Pcs (SAPPHIRE)</a>
                                 </h5>
-                                <p class="price">$18.99</p>
+                                <p class="price">$19.55</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Cutlery set, Color Clear, Count 360 Pcs (SAPPHIRE).php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -110,27 +110,27 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White.php">
                                             <img src="../img/products/cutlery/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White/51hQ8BdRAsL.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White.php">
                                             <img src="../img/products/cutlery/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White/51hQ8BdRAsL.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White.php" class="invisible">
                                 <img src="../img/products/cutlery/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White/51hQ8BdRAsL.jpg" alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White</a>
+                                    <a href="../details/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White.php">Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White</a>
                                 </h5>
-                                <p class="price">$8.29</p>
+                                <p class="price">$8.33</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Blue Sky 400-Piece Disposable Plastic Tea Spoon Set, White.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -144,31 +144,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts.php">
                                             <img src="../img/products/cutlery/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts/81hgSSMf7ZL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts.php">
                                             <img src="../img/products/cutlery/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts/815rxHFKjKL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts.php" class="invisible">
                                 <img src="../img/products/cutlery/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts/81hgSSMf7ZL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Plastic Knives | Heavy Duty Premium Quality Silver Settings Cutlery Perfect
+                                    <a href="../details/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts.php">Party Bargains Plastic Knives | Heavy Duty Premium Quality Silver Settings Cutlery Perfect
                                         for Parties, Weddings & Catering Events | 120 Counts</a>
                                 </h5>
-                                <p class="price">$12.99</p>
+                                <p class="price">$13.42</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Plastic Knives  Heavy Duty Premium Quality Silver Settings Cutlery Perfect for Parties, Weddings & Catering Events  120 Counts.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -182,31 +182,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front container-fluid">
-                                        <a href="detail.php">
+                                        <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php">
                                             <img src="../img/products/cutlery/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack/71YZfFSQHKL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php">
                                             <img src="../img/products/cutlery/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack/71+DsUVkC4L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php" class="invisible">
                                 <img src="../img/products/cutlery/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack/71YZfFSQHKL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48
+                                    <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php">Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48
                                         Knives, 48 Spoons, Party of 48 Combo Pack</a>
                                 </h5>
-                                <p class="price">$17.99</p>
+                                <p class="price">$18.99 </p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php" class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -219,32 +219,32 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php">
                                             <img src="../img/products/cutlery/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, 40 Combo Pack/71sCiZZ5t+L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php">
                                             <img src="../img/products/cutlery/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, 40 Combo Pack/511Fzwf7D2L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php" class="invisible">
                                 <img src="../img/products/cutlery/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, 40 Combo Pack/71sCiZZ5t+L._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40
+                                    <a href="../details/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php">Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40
                                         Knives, 40 Spoons, Party of 40 Combo Pack</a>
                                 </h5>
                                 <p class="price">
-                                    $13.89</p>
+                                    $12.99</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Upscale Collection, Heavyweight Polished Silver Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php" class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -275,32 +275,32 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Ideal for Parties, Weddings & Catering Events  Party Combo Pack - 160 Pcs.php">
                                             <img src="../img/products/cutlery/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Party Combo Pack - 160 Pcs/71ze7UpKexL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Ideal for Parties, Weddings & Catering Events  Party Combo Pack - 160 Pcs.php">
                                             <img src="../img/products/cutlery/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Party Combo Pack - 160 Pcs/81Zg+VWs9GL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Ideal for Parties, Weddings & Catering Events  Party Combo Pack - 160 Pcs.php" class="invisible">
                                 <img src="../img/products/cutlery/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Party Combo Pack - 160 Pcs/71ze7UpKexL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Elegant Silver Polished Cutlery Set | Silver Settings Heavyweight Plastic
+                                    <a href="../details/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Ideal for Parties, Weddings & Catering Events  Party Combo Pack - 160 Pcs.php">Party Bargains Elegant Silver Polished Cutlery Set | Silver Settings Heavyweight Plastic
                                         Silverware Ideal for Parties, Weddings & Catering Events | Party Combo Pack - 160
                                         Pcs</a>
                                 </h5>
-                                <p class="price">$16.99</p>
+                                <p class="price">$17.58</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Elegant Silver Polished Cutlery Set  Silver Settings Heavyweight Plastic Silverware Ideal for Parties, Weddings & Catering Events  Party Combo Pack - 160 Pcs.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -314,31 +314,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count.php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count/71DGl0A16BL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count.php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count/71+LQgn1cvL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count.php" class="invisible">
                                 <img src="../img/products/cutlery/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count/71DGl0A16BL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Silver Cutlery | Dynasty Collection Elegant & Heavyweight Polished
+                                    <a href="../details/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count.php">Party Bargains Disposable Silver Cutlery | Dynasty Collection Elegant & Heavyweight Polished
                                         Silverware ( Forks, Knives, Spoons ) - Combo Party Pack | 160 Count</a>
                                 </h5>
-                                <p class="price">$15.49</p>
+                                <p class="price">$16.08</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Silver Cutlery  Dynasty Collection Elegant & Heavyweight Polished Silverware ( Forks, Knives, Spoons ) - Combo Party Pack  160 Count.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -352,31 +352,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php">
                                             <img src="../img/products/cutlery/Upscale Collection Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, 40 Combo Pack/1.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php">
                                             <img src="../img/products/cutlery/Upscale Collection Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, 40 Combo Pack/A1ilXL0vXXL._SX522_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php" class="invisible">
                                 <img src="../img/products/cutlery/Upscale Collection Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, 40 Combo Pack/1.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40
+                                    <a href="../details/Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php">Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40
                                         Knives, 40 Spoons, Party of 40 Combo Pack</a>
                                 </h5>
-                                <p class="price">$23.99</p>
+                                <p class="price">$21.99</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Upscale Collection, Heavyweight Polished Gold Plastic Cutlery (160 Pc), 80 Forks, 40 Knives, 40 Spoons, Party of 40 Combo Pack.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -390,31 +390,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120.php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120/619aQl-hpEL._SX522_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120.php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120/91emnPbDfiL._SX522_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120.php" class="invisible">
                                 <img src="../img/products/cutlery/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120/619aQl-hpEL._SX522_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Plastic Silverware Flatware Forks | Durable & Elegant Stylish
+                                    <a href="../details/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120.php">Party Bargains Disposable Plastic Silverware Flatware Forks | Durable & Elegant Stylish
                                         Polished Gold Cutlery | Pack of 120</a>
                                 </h5>
-                                <p class="price">$18.99</p>
+                                <p class="price">$16.99</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Plastic Silverware Flatware Forks  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -428,69 +428,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120.php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120/61f8vqpTkIL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120.php">
                                             <img src="../img/products/cutlery/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120/91emnPbDfiL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120.php" class="invisible">
                                 <img src="../img/products/cutlery/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120/61f8vqpTkIL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Silverware Flatware Plastic Spoons | Durable & Elegant Polished
+                                    <a href="../details/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120.php">Party Bargains Disposable Silverware Flatware Plastic Spoons | Durable & Elegant Polished
                                         Gold Cutlery | Pack of 120</a>
                                 </h5>
-                                <p class="price">$18.99</p>
+                                <p class="price">$16.99</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                            <!-- /.text -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="detail.php">
-                                            <img src="../img/products/cutlery/Party Bargains Disposable Plastic Silverware Flatwares Knives  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120/61ifReEhOqL._SX522_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="detail.php">
-                                            <img src="../img/products/cutlery/Party Bargains Disposable Plastic Silverware Flatwares Knives  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120/91emnPbDfiL._SX522_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="detail.php" class="invisible">
-                                <img src="../img/products/cutlery/Party Bargains Disposable Plastic Silverware Flatwares Knives  Durable & Elegant Stylish Polished Gold Cutlery  Pack of 120/61ifReEhOqL._SX522_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="detail.php">Party Bargains Disposable Plastic Silverware Flatwares Knives | Durable & Elegant Stylish
-                                        Polished Gold Cutlery | Pack of 120</a>
-                                </h5>
-                                <p class="price">$18.99</p>
-                                <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Silverware Flatware Plastic Spoons  Durable & Elegant Polished Gold Cutlery  Pack of 120.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>

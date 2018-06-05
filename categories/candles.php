@@ -73,33 +73,33 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200.php">
                                                     <img src="../img/products/candles/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200/71eSA47pzTL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200.php">
                                                     <img src="../img/products/candles/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200/71eSA47pzTL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="../details/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200.php" class="invisible">
                                         <img src="../img/products/candles/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200/71eSA47pzTL._SL1500_.jpg"
                                             alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Unscented White Tea Lights | Decorative Candle Burns 3.5 hours,
+                                            <a href="../details/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200.php">Party Bargains Unscented White Tea Lights | Decorative Candle Burns 3.5 hours,
                                                 Tea Light Candles for Wedding, Birthdays and all other Decorative Events
                                                 | Pack of 200
                                             </a>
                                         </h5>
-                                        <p class="price">$16.99</p>
+                                        <p class="price">$17.55</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="../details/Party Bargains Unscented White Tea Lights  Decorative Candle Burns 3.5 hours, Tea Light Candles for Wedding, Birthdays and all other Decorative Events  Pack of 200.php" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>
@@ -113,31 +113,31 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php">
                                                     <img src="../img/products/candles/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box/615m0zER9iL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php">
                                                     <img src="../img/products/candles/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box/71oqHhjqjmL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php" class="invisible">
                                         <img src="../img/products/candles/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box/615m0zER9iL._SL1500_.jpg"
                                             alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A
+                                            <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php">Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A
                                                 Box</a>
                                         </h5>
-                                        <p class="price">$11.99</p>
+                                        <p class="price">$12.58</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>

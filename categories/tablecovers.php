@@ -63,7 +63,7 @@
 
                     <div class="col-md-9">
                         <div class="box">
-                            <h1>Parchment Papers</h1>
+                            <h1>Table Covers</h1>
                         </div>
 
                         <div class="row products">
@@ -73,31 +73,31 @@
                                     <div class="flip-container">
                                         <div class="flipper">
                                             <div class="front">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5.php">
                                                     <img src="../img/products/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5/71zWN3bNqwL._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                             <div class="back">
-                                                <a href="detail.php">
+                                                <a href="../details/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5.php">
                                                     <img src="../img/products/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5/61lkqz+-L1L._SL1500_.jpg"
                                                         alt="" class="img-responsive">
                                                 </a>
                                             </div>
                                         </div>
                                     </div>
-                                    <a href="detail.php" class="invisible">
+                                    <a href="../details/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5.php" class="invisible">
                                         <img src="../img/products/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5/71zWN3bNqwL._SL1500_.jpg"
                                             alt="" class="img-responsive">
                                     </a>
                                     <div class="text">
                                         <h5>
-                                            <a href="detail.php">Party Bargains Disposable Table Cover | Classic White Paper 3 Ply Premium & Elegant
+                                            <a href="../details/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5.php">Party Bargains Disposable Table Cover | Classic White Paper 3 Ply Premium & Elegant
                                                 Plastic Table Covers - Size 54" X 108" | Pack of 5</a>
                                         </h5>
-                                        <p class="price">$14.99</p>
+                                        <p class="price">$15.56</p>
                                         <p class="buttons">
-                                            <a href="basket.php" class="btn btn-primary">View Details</a>
+                                            <a href="../details/Party Bargains Disposable Table Cover  Classic White Paper 3 Ply Premium & Elegant Plastic Table Covers - Size 54 X 108  Pack of 5.php" class="btn btn-primary">View Details</a>
                                         </p>
 
                                     </div>

@@ -73,30 +73,30 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front container-fluid">
-                                        <a href="detail.php">
+                                        <a href="../details/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4.php">
                                             <img src="../img/products/serving/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4/61bK6+EENbL._SL1500_.jpg" alt=""
                                                 class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4.php">
                                             <img src="../img/products/serving/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4/61h8PU+EqIL._SL1500_.jpg" alt=""
                                                 class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4.php" class="invisible">
                                 <img src="../img/products/serving/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4/61bK6+EENbL._SL1500_.jpg" alt=""
                                     class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">White Plastic Serving Tray, Rectangular 18" x 12" Pack Of 4</a>
+                                    <a href="../details/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4.php">White Plastic Serving Tray, Rectangular 18" x 12" Pack Of 4</a>
                                 </h5>
-                                <p class="price">$18.99</p>
+                                <p class="price">$19.58</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/White Plastic Serving Tray, Rectangular 18 x 12 Pack Of 4.php" class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -109,70 +109,32 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
-                                            <img src="../img/products/serving/Party Bargains Plastic Rectangle Serving Tray  Elegant Silver Edged Flower Rim - Large  Pack of 4/71yHH-jbXUL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="detail.php">
-                                            <img src="../img/products/serving/Party Bargains Plastic Rectangle Serving Tray  Elegant Silver Edged Flower Rim - Large  Pack of 4/717uwXI0iGL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="detail.php" class="invisible">
-                                <img src="../img/products/serving/Party Bargains Plastic Rectangle Serving Tray  Elegant Silver Edged Flower Rim - Large  Pack of 4/71yHH-jbXUL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="detail.php">Party Bargains Plastic Rectangle Serving Tray | Elegant Silver Edged Flower Rim - Large
-                                        | Pack of 4</a>
-                                </h5>
-                                <p class="price">$12.99</p>
-                                <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                            <!-- /.text -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE).php">
                                             <img src="../img/products/serving/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE)/61xLF7jk8-L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE).php">
                                             <img src="../img/products/serving/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE)/61GiPoxZPzL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE).php" class="invisible">
                                 <img src="../img/products/serving/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE)/61xLF7jk8-L._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray,
+                                    <a href="../details/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE).php">Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray,
                                         5 x 16 Inches, 4 Pack (WHITE)</a>
                                 </h5>
                                 <p class="price">
-                                    $13.49</p>
+                                    $14.08</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Premium Heavyweight Hard Plastic 4 Sectional Rectangular Serving Tray, 5 x 16 Inches, 4 Pack (WHITE).php" class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -203,31 +165,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4.php">
                                             <img src="../img/products/serving/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4/71jEdChW8KL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4.php">
                                             <img src="../img/products/serving/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4/61t3kzuhj4L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4.php" class="invisible">
                                 <img src="../img/products/serving/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4/71jEdChW8KL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains 6 Sectional Round Plastic Serving Tray, Size: 12 inch, Color: White/Silver,
+                                    <a href="../details/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4.php">Party Bargains 6 Sectional Round Plastic Serving Tray, Size: 12 inch, Color: White/Silver,
                                         Pack of 4</a>
                                 </h5>
-                                <p class="price">$14.99</p>
+                                <p class="price">$15.58</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains 6 Sectional Round Plastic Serving Tray, Size 12 inch, Color WhiteSilver, Pack of 4.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -241,31 +203,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6.php">
                                             <img src="../img/products/serving/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6/716Q2Xrt9+L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6.php">
                                             <img src="../img/products/serving/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6/71P3jW9+FTL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6.php" class="invisible">
                                 <img src="../img/products/serving/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6/716Q2Xrt9+L._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Plastic Oval Trays | Durable Hard Plastic Elegant Ivory Food Serving Tray
+                                    <a href="../details/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6.php">Party Bargains Plastic Oval Trays | Durable Hard Plastic Elegant Ivory Food Serving Tray
                                         Ideal for Catering, Food Service & Appetizers - 17" | Pack of 6</a>
                                 </h5>
-                                <p class="price">$12.99</p>
+                                <p class="price">$13.58</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Plastic Oval Trays  Durable Hard Plastic Elegant Ivory Food Serving Tray Ideal for Catering, Food Service & Appetizers - 17  Pack of 6.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -279,31 +241,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12.php">
                                             <img src="../img/products/serving/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12/71K2C-pTZlL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12.php">
                                             <img src="../img/products/serving/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12/81pE+unyhiL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12.php" class="invisible">
                                 <img src="../img/products/serving/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12/71K2C-pTZlL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Plastic Serving Tongs, Color: Clear, Size: 8.5Inch, Count: Pack of 12
+                                    <a href="../details/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12.php">Party Bargains Plastic Serving Tongs, Color: Clear, Size: 8.5Inch, Count: Pack of 12
                                     </a>
                                 </h5>
-                                <p class="price">$10.29</p>
+                                <p class="price">$10.72</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Plastic Serving Tongs, Color Clear, Size 8.5Inch, Count Pack of 12.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>

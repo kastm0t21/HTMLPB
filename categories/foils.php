@@ -68,7 +68,7 @@
 
                         <div class="row products">
 
-                            <div class="col-md-4 col-sm-6">
+<!--                            <div class="col-md-4 col-sm-6">
                                 <div class="product">
                                     <div class="flip-container">
                                         <div class="flipper">
@@ -100,9 +100,7 @@
                                         </p>
 
                                     </div>
-                                    <!-- /.text -->
                                 </div>
-                                <!-- /.product -->
                             </div>
 
                             <div class="col-md-4 col-sm-6">
@@ -137,9 +135,7 @@
                                         </p>
 
                                     </div>
-                                    <!-- /.text -->
                                 </div>
-                                <!-- /.product -->
                             </div>
 
                             <div class="col-md-4 col-sm-6">
@@ -174,10 +170,9 @@
                                         </p>
 
                                     </div>
-                                    <!-- /.text -->
                                 </div>
-                                <!-- /.product -->
                             </div>
+                            -->
 
                         </div>
                         <!-- /.col-md-9 -->

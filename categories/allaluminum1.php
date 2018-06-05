@@ -108,32 +108,34 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS).php">
                                             <img src="../img/products/aluminum/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS)/81Tz4QOMMgL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS).php">
                                             <img src="../img/products/aluminum/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS)/71hiDLx3DCL._SL1320_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS).php"
+                                class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS)/81Tz4QOMMgL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity,
+                                    <a href="../details/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS).php">Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity,
                                         8.4inch x 5.9inch. (50 WITH LIDS)s</a>
                                 </h5>
                                 <p class="price">
-                                    $16.99</p>
+                                    $17.89</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Aluminum Oblong Foil Pan Containers and Board Lids Set, 2.25 lb Capacity, 8.4inch x 5.9inch. (50 WITH LIDS).php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -164,31 +166,33 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT).php">
                                             <img src="../img/products/aluminum/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT)/81QikZUw0YL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT).php">
                                             <img src="../img/products/aluminum/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT)/71HDOa5rMaL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT).php"
+                                class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT)/81QikZUw0YL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board
+                                    <a href="../details/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT).php">Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board
                                         Lids (25 COUNT)</a>
                                 </h5>
-                                <p class="price">$14.99</p>
+                                <p class="price">$15.56</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Premium Quality Durable, 9 X 7 Aluminum Foil Pans 5 Lb Capacity With Board Lids (25 COUNT).php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -202,31 +206,33 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12/71Zz-CXv9xL._SL1320_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12/41gXgJXMGTL.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12.php"
+                                class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12/71Zz-CXv9xL._SL1320_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of
+                                    <a href="../details/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12.php">Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of
                                         Broiler Pans - Size 12 X 8 3/4" X 1 1/ | Pack of 12</a>
                                 </h5>
-                                <p class="price">$9.99</p>
+                                <p class="price">$11.49</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Aluminum Broiler Baking Cooking Pan & Grill Liner, Sheets of Broiler Pans - Size 12 X 8 34 X 1 1  Pack of 12.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -240,31 +246,33 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids/71e4IxRps0L._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids/71cLNUiZmgL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids.php"
+                                class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids/71e4IxRps0L._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Durable Aluminum Oblong Foil Pan | 1 lb Capacity Take-Out Pans
+                                    <a href="../details/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids.php">Party Bargains Disposable Durable Aluminum Oblong Foil Pan | 1 lb Capacity Take-Out Pans
                                         Ideal for Pies, Cakes, Meats | Pack of 50 With Lids</a>
                                 </h5>
-                                <p class="price">$11.49</p>
+                                <p class="price">$12.09</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Durable Aluminum Oblong Foil Pan  1 lb Capacity Take-Out Pans Ideal for Pies, Cakes, Meats  Pack of 50 With Lids.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -278,69 +286,35 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50/81PV26roOJL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50/81jDFPS2lRL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50.php"
+                                class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50/81PV26roOJL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Aluminum Foil Pan | Premium Quality Durable Steam Table Pans
+                                    <a href="../details/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50.php">Party Bargains Disposable Aluminum Foil Pan | Premium Quality Durable Steam Table Pans
                                         for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75 | Pack of 50</a>
                                 </h5>
-                                <p class="price">$23.99</p>
+                                <p class="price">$24.86</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Aluminum Foil Pan  Premium Quality Durable Steam Table Pans for Baking, Roasting, Homemade Cakes, Breads - Size 12 X 8 X 1.75  Pack of 50.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
-                            </div>
-                            <!-- /.text -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
-                    <div class="col-md-4 col-sm-6" id="productimg">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front container-fluid">
-                                        <a href="detail.php">
-                                            <img src="../img/products/aluminum/JETfoil Aluminum Foil Steam Table Pans, Full Size Deep, Pack of 15, Roaster pans/71iXSD-zrBL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="detail.php">
-                                            <img src="../img/products/aluminum/JETfoil Aluminum Foil Steam Table Pans, Full Size Deep, Pack of 15, Roaster pans/71JHtwntmRL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="detail.php" class="invisible">
-                                <img src="../img/products/aluminum/JETfoil Aluminum Foil Steam Table Pans, Full Size Deep, Pack of 15, Roaster pans/71iXSD-zrBL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="detail.php">JETfoil Aluminum Foil Steam Table Pans, Full Size Deep, Pack of 15, Roaster pans</a>
-                                </h5>
-                                <p class="price">$24.99</p>
-                                <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
-                                </p>
                             </div>
                             <!-- /.text -->
                         </div>
@@ -352,31 +326,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50.php">
                                             <img src="../img/products/aluminum/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50/812r3XeRkPL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50.php">
                                             <img src="../img/products/aluminum/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50/81ENYhwOIGL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50.php" class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50/812r3XeRkPL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Foil Pans | Premium Quality Durable Aluminum Pan for Baking, Roasting,
+                                    <a href="../details/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50.php">Party Bargains Foil Pans | Premium Quality Durable Aluminum Pan for Baking, Roasting,
                                         Broiling, Cooking - Size 8 X 6 x 2 | Pack of 50</a>
                                 </h5>
-                                <p class="price">$15.99</p>
+                                <p class="price">$16.58</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Foil Pans  Premium Quality Durable Aluminum Pan for Baking, Roasting, Broiling, Cooking - Size 8 X 6 x 2  Pack of 50.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -390,31 +364,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins  Perfect for Bakery, Homemade Cakes, Meatloaf & Food Serving - 8.5 X 4.5 X 2.5  Pack of 50.php">
                                             <img src="../img/products/aluminum/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins - 8.5 X 4.5 X 2.5  Pack of 50/81US7scGejL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins  Perfect for Bakery, Homemade Cakes, Meatloaf & Food Serving - 8.5 X 4.5 X 2.5  Pack of 50.php">
                                             <img src="../img/products/aluminum/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins - 8.5 X 4.5 X 2.5  Pack of 50/81gCgx456VL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins  Perfect for Bakery, Homemade Cakes, Meatloaf & Food Serving - 8.5 X 4.5 X 2.5  Pack of 50.php" class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins - 8.5 X 4.5 X 2.5  Pack of 50/81US7scGejL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Loaf Pans | Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins
+                                    <a href="../details/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins  Perfect for Bakery, Homemade Cakes, Meatloaf & Food Serving - 8.5 X 4.5 X 2.5  Pack of 50.php">Party Bargains Loaf Pans | Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins
                                         Pack of 50</a>
                                 </h5>
-                                <p class="price">$15.49</p>
+                                <p class="price">$16.07</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Loaf Pans  Heavy Duty Durable Quality Disposable Aluminum 2Lb Bread Tins  Perfect for Bakery, Homemade Cakes, Meatloaf & Food Serving - 8.5 X 4.5 X 2.5  Pack of 50.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -428,32 +402,32 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20.php">
                                             <img src="../img/products/aluminum/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20/81LUv9KrkTL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20.php">
                                             <img src="../img/products/aluminum/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20/51Vl3fScNKL.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20.php" class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20/81LUv9KrkTL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Muffin Pan | 6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for
+                                    <a href="../details/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20.php">Party Bargains Muffin Pan | 6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for
                                         Baking Cupcakes - Standard Size | Pack of 20</a>
                                 </h5>
                                 <p class="price">
-                                    $12.99</p>
+                                    $12.79</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Muffin Pan  6-Cup Cupcake Aluminum Pans Favorite Muffin Tin Size for Baking Cupcakes - Standard Size  Pack of 20.php" class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -484,31 +458,31 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6/51RPqMg41jL.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6.php">
                                             <img src="../img/products/aluminum/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6/51RPqMg41jL.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6.php" class="invisible">
                                 <img src="../img/products/aluminum/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6/51RPqMg41jL.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan | Oval Shape Pans
+                                    <a href="../details/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6.php">Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan | Oval Shape Pans
                                         Ideal for Cooking, Roasts, Turkeys - size Extra Large | Pack of 6</a>
                                 </h5>
-                                <p class="price">$17.99</p>
+                                <p class="price">$19.53</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Durable Aluminum Foil Turkey Roasting Pan  Oval Shape Pans Ideal for Cooking, Roasts, Turkeys - size Extra Large  Pack of 6.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -522,32 +496,70 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="detail.php">
+                                        <a href="../details/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets.php">
                                             <img src="../img/products/aluminum/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets/81bwJmM4reL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
+                                        <a href="../details/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets.php">
                                             <img src="../img/products/aluminum/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets/715xJQPHyLL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
+                            <a href="../details/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets.php" class="invisible">
                                 <img src="../img/products/aluminum/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets/81bwJmM4reL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40
+                                    <a href="../details/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets.php">Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40
                                         Sets
                                     </a>
                                 </h5>
-                                <p class="price">$14.89</p>
+                                <p class="price">$15.49</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Jetfoil 9 Inch Round Disposable Aluminum Foil Pans With Clear Plastic Lids, Pack Of 40 Sets.php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Aluminum Round Foil Pans  Disposable Pan Containers & Board Lids Set  7 Inch Steam Table Pans  40 Count.php">
+                                            <img src="../img/products/aluminum/Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack Of 40 Sets/61JVW22+VzL._SL1320_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Aluminum Round Foil Pans  Disposable Pan Containers & Board Lids Set  7 Inch Steam Table Pans  40 Count.php">
+                                            <img src="../img/products/aluminum/Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack Of 40 Sets/71oFCIi5haL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Aluminum Round Foil Pans  Disposable Pan Containers & Board Lids Set  7 Inch Steam Table Pans  40 Count.php" class="invisible">
+                                <img src="../img/products/aluminum/Jetfoil 7 Inch Round Disposable Aluminum Foil Pans Set With Board Lids, Pack Of 40 Sets/61JVW22+VzL._SL1320_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Aluminum Round Foil Pans  Disposable Pan Containers & Board Lids Set  7 Inch Steam Table Pans  40 Count.php">Aluminum Round Foil Pans | Disposable Pan Containers & Board Lids Set | 7 Inch Steam Table Pans | 40 Count
+                                    </a>
+                                </h5>
+                                <p class="price">$13.09</p>
+                                <p class="buttons">
+                                    <a href="../details/Aluminum Round Foil Pans  Disposable Pan Containers & Board Lids Set  7 Inch Steam Table Pans  40 Count.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -581,4 +593,4 @@
             <!-- /.container -->
         </div>
         <!-- /#content -->
-<?php include 'footer.php'?>
+        <?php include 'footer.php'?>
