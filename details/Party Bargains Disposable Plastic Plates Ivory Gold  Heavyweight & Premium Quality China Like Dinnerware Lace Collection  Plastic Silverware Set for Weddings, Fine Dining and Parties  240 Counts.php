@@ -10,48 +10,8 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="../categories/plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="../categories/alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="../categories/household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
 
 
@@ -85,7 +45,8 @@
                         <div class="box">
                             <h2 class="text-center">Party Bargains Disposable Plastic Plates Ivory Gold Heavyweight & Premium Quality China Like
                                 Dinnerware Lace Collection Plastic Silverware Set for Weddings, Fine Dining and Parties 240
-                                Counts</h2>
+                                Counts
+                            </h2>
                             <p class="price">$57.99</p>
 
                             <p class="text-center buttons">
@@ -142,12 +103,14 @@
                                 your table settings an amazing and gorgeous look. Made of a sturdy plastic that does not
                                 feel cheap like the usual plastic disposable dinner plates and flatware. Use these for any
                                 cocktail parties, prom nights and it will perfectly accommodate the capacity for serving
-                                needs.</li>
+                                needs.
+                            </li>
                             <li>Convenient & Reusable: Take these disposable plastic party plates and silverware to a whole different
                                 level. Our plastic tableware are hand washable, recyclable and disposable for a quick after
                                 party cleanup. Ideal for large events and your guests would definitely love these. Economical
                                 and practical at the same time. Highly recommended if you want a classier look on a small
-                                budget.</li>
+                                budget.
+                            </li>
                             <li>Great Value for Your Money: If you are not satisfied for any reason, simply return the item for
                                 a full refund, no questions asked. 100% 90 DAY MONEY BACK GUARANTEE!</li>
                         </ul>

@@ -12,50 +12,9 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
-
 
 
                 <!-- *** MENUS AND FILTERS END *** -->
@@ -307,7 +266,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Simcha Collection Wine Glasses  Elegant design, Crystal-like Hard Unbreakable Disposable Plastic Perfect for Weddings, Picnics, Barbecues and other Events - Size 8 Oz  Pack of 4.php" class="invisible">
+                            <a href="../details/Simcha Collection Wine Glasses  Elegant design, Crystal-like Hard Unbreakable Disposable Plastic Perfect for Weddings, Picnics, Barbecues and other Events - Size 8 Oz  Pack of 4.php"
+                                class="invisible">
                                 <img src="../img/products/drink/Simcha Collection Wine Glasses  Elegant design, Crystal-like Hard Unbreakable Disposable Plastic - Size 8 Oz  Pack of 4/71MQtbX9DJL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -318,7 +278,8 @@
                                 </h5>
                                 <p class="price">$9.99</p>
                                 <p class="buttons">
-                                    <a href="../details/Simcha Collection Wine Glasses  Elegant design, Crystal-like Hard Unbreakable Disposable Plastic Perfect for Weddings, Picnics, Barbecues and other Events - Size 8 Oz  Pack of 4.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Simcha Collection Wine Glasses  Elegant design, Crystal-like Hard Unbreakable Disposable Plastic Perfect for Weddings, Picnics, Barbecues and other Events - Size 8 Oz  Pack of 4.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -345,7 +306,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Plastic Wine Glasses  Elegant Hard Plastic Disposable Wine Glass Ideal for Parties and Wedding to Serve Champagne & Wine  Pack of 8.php" class="invisible">
+                            <a href="../details/Party Bargains Plastic Wine Glasses  Elegant Hard Plastic Disposable Wine Glass Ideal for Parties and Wedding to Serve Champagne & Wine  Pack of 8.php"
+                                class="invisible">
                                 <img src="../img/products/drink/Party Bargains Plastic Wine Glasses  Elegant Hard Plastic Disposable Wine Glass Ideal for Parties and Wedding to Serve Champagne & Wine  Pack of 8/81FQ+Yk0MzL._SX522_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -356,7 +318,8 @@
                                 </h5>
                                 <p class="price">$16.57</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Plastic Wine Glasses  Elegant Hard Plastic Disposable Wine Glass Ideal for Parties and Wedding to Serve Champagne & Wine  Pack of 8.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Plastic Wine Glasses  Elegant Hard Plastic Disposable Wine Glass Ideal for Parties and Wedding to Serve Champagne & Wine  Pack of 8.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->
@@ -382,7 +345,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Elegant Tall Square Mini Cube 3oz Clear Plastic Dessert Cups, Set Of 40 Tall Dessert Cups And Shot Glass, Parfait, Souffle Jello Glasses, Shooter Glasses.php" class="invisible">
+                            <a href="../details/Party Bargains Elegant Tall Square Mini Cube 3oz Clear Plastic Dessert Cups, Set Of 40 Tall Dessert Cups And Shot Glass, Parfait, Souffle Jello Glasses, Shooter Glasses.php"
+                                class="invisible">
                                 <img src="../img/products/drink/Party Bargains Elegant Tall Square Mini Cube 3oz Clear Plastic Dessert Cups, Set Of 40 Tall Dessert Cups And Shot Glass, Parfait, Souffle Jello Glasses, Shooter Glasses/71Ix-gcqWxL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -394,7 +358,8 @@
                                 </h5>
                                 <p class="price">$14.89</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Elegant Tall Square Mini Cube 3oz Clear Plastic Dessert Cups, Set Of 40 Tall Dessert Cups And Shot Glass, Parfait, Souffle Jello Glasses, Shooter Glasses.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Elegant Tall Square Mini Cube 3oz Clear Plastic Dessert Cups, Set Of 40 Tall Dessert Cups And Shot Glass, Parfait, Souffle Jello Glasses, Shooter Glasses.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -476,7 +441,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Shot Cups  Disposable Hard Plastic Shooter Glasses - 2 oz  Pack of 200 - Perfect for Whiskey, Wine Tasting, Jello Shots, Condiments, Sauce, Dipping, Samples.php" class="invisible">
+                            <a href="../details/Party Bargains Shot Cups  Disposable Hard Plastic Shooter Glasses - 2 oz  Pack of 200 - Perfect for Whiskey, Wine Tasting, Jello Shots, Condiments, Sauce, Dipping, Samples.php"
+                                class="invisible">
                                 <img src="../img/products/drink/Party Bargains Shot Cups  Disposable Hard Plastic Shooter Glasses - 2 oz  Pack of 200 - Perfect for Whiskey, Wine Tasting, Jello Shots, Condiments, Sauce, Dipping, Samples/81NcFc2RpyL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -486,7 +452,8 @@
                                 </h5>
                                 <p class="price">$16.51</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Shot Cups  Disposable Hard Plastic Shooter Glasses - 2 oz  Pack of 200 - Perfect for Whiskey, Wine Tasting, Jello Shots, Condiments, Sauce, Dipping, Samples.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Shot Cups  Disposable Hard Plastic Shooter Glasses - 2 oz  Pack of 200 - Perfect for Whiskey, Wine Tasting, Jello Shots, Condiments, Sauce, Dipping, Samples.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -513,7 +480,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains 100 Count 10oz Hard Clear Disposable Plastic Round Tumbler Party Beverage Wedding Cups.php" class="invisible">
+                            <a href="../details/Party Bargains 100 Count 10oz Hard Clear Disposable Plastic Round Tumbler Party Beverage Wedding Cups.php"
+                                class="invisible">
                                 <img src="../img/products/drink/Party Bargains 100 Count 10oz Hard Clear Disposable Plastic Round Tumbler Party Beverage Wedding Cups/41u+1gbb3lL.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -526,7 +494,8 @@
                                     <del>$22.99</del>
                                 </p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains 100 Count 10oz Hard Clear Disposable Plastic Round Tumbler Party Beverage Wedding Cups.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains 100 Count 10oz Hard Clear Disposable Plastic Round Tumbler Party Beverage Wedding Cups.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->

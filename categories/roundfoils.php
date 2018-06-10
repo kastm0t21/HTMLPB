@@ -12,50 +12,9 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="plasticplates1.html">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="allcontainers1.html">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="allbowls.html">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="allserving.html">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="allcutlery1.html">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="alldrinkwares1.html">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="allaluminum1.html">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="household.html">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.html">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="candles.html">Candles</a>
-                            </li>
-                            <li>
-                                <a href="allminiwares1.html">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
-
 
 
                 <!-- *** MENUS AND FILTERS END *** -->

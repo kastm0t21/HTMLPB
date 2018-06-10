@@ -12,50 +12,9 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
-
 
 
                 <!-- *** MENUS AND FILTERS END *** -->
@@ -67,81 +26,6 @@
                 </div>
 
                 <div class="row products">
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  7.5 Inches Plate  40 Count.php">
-                                            <img src="../img/products/plates/Disposable Plastic Plates  Heavy Duty &amp; Premium Quality White Dinnerware With Silver Rim 7.5 Inches Plate  40 Count/61QRZCPBxYL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  7.5 Inches Plate  40 Count.php">
-                                            <img src="../img/products/plates/Disposable Plastic Plates  Heavy Duty &amp; Premium Quality White Dinnerware With Silver Rim 7.5 Inches Plate  40 Count/61QRZCPBxYL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  7.5 Inches Plate  40 Count.php" class="invisible">
-                                <img src="../img/products/plates/Disposable Plastic Plates  Heavy Duty &amp; Premium Quality White Dinnerware With Silver Rim 7.5 Inches Plate  40 Count/61QRZCPBxYL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  7.5 Inches Plate  40 Count.php">Disposable Plastic Plates Heavy Duty &amp; Premium Quality White Dinnerware With Silver
-                                        Rim Excellent for Weddings, Baby &amp; Bridal Showers, Engagement Parties &amp; More
-                                        7.5 Inches Plate 40 Count</a>
-                                </h5>
-                                <p class="price">$25.58</p>
-                                <p class="buttons">
-                                    <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  7.5 Inches Plate  40 Count.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  10 Inches Plate  40 Count.php">
-                                            <img src="../img/products/plates/Disposable Plastic Plates  Heavy Duty &amp; Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby &amp; Bridal Showers, Engagement Parties &amp; More  10 Inches Plate  40 Count/81dnDFapa8L._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  10 Inches Plate  40 Count.php">
-                                            <img src="../img/products/plates/Disposable Plastic Plates  Heavy Duty &amp; Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby &amp; Bridal Showers, Engagement Parties &amp; More  10 Inches Plate  40 Count/81gyc2t7MnL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  10 Inches Plate  40 Count.php" class="invisible">
-                                <img src="../img/products/plates/Disposable Plastic Plates  Heavy Duty &amp; Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby &amp; Bridal Showers, Engagement Parties &amp; More  10 Inches Plate  40 Count/81dnDFapa8L._SL1500_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  10 Inches Plate  40 Count.php">Disposable Plastic Plates | Heavy Duty &amp; Premium Quality White Dinnerware With Silver
-                                        Rim | 10 Inches Plate | 40 Count</a>
-                                </h5>
-                                <p class="price">$31.56</p>
-                                <p class="buttons">
-                                    <a href="../details/Disposable Plastic Plates  Heavy Duty & Premium Quality White Dinnerware With Silver Rim  Excellent for Weddings, Baby & Bridal Showers, Engagement Parties & More  10 Inches Plate  40 Count.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                        </div>
-                        <!-- /.product -->
-                    </div>
 
                     <div class="col-md-4 col-sm-6">
                         <div class="product">
@@ -161,7 +45,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight & Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight & Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                class="invisible">
                                 <img src="../img/products/plates/Party Bargains Disposable Plastic Plates White Silver  Heavyweight & Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts/71HrXYdeGLL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -173,7 +58,8 @@
                                 </h5>
                                 <p class="price">$57.99</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight & Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight & Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -199,7 +85,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight & Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php" class="invisible">
+                            <a href="../details/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight & Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                class="invisible">
                                 <img src="../img/products/plates/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight & Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set 240 Counts/81JXKEhiI-L._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -210,7 +97,8 @@
                                 </h5>
                                 <p class="price">$57.99</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight & Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight & Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -236,7 +124,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains lacepartywhite120 120lace White 240 Plastic 480 Upscale Cutlery  Lace Collection China Like Silver Border Plate and Elegant Silverwar.php" class="invisible">
+                            <a href="../details/Party Bargains lacepartywhite120 120lace White 240 Plastic 480 Upscale Cutlery  Lace Collection China Like Silver Border Plate and Elegant Silverwar.php"
+                                class="invisible">
                                 <img src="../img/products/plates/Party Bargains lacepartywhite120 120lace White 240 Plastic 480 Upscale Cutlery  Lace Collection China Like Silver Border Plate and Elegant Silverwar/71dqPGnUilL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -247,7 +136,8 @@
                                 </h5>
                                 <p class="price">$154.00</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains lacepartywhite120 120lace White 240 Plastic 480 Upscale Cutlery  Lace Collection China Like Silver Border Plate and Elegant Silverwar.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains lacepartywhite120 120lace White 240 Plastic 480 Upscale Cutlery  Lace Collection China Like Silver Border Plate and Elegant Silverwar.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -442,7 +332,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border).php" class="invisible">
+                            <a href="../details/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border).php"
+                                class="invisible">
                                 <img src="../img/products/plates/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border)/81EY6n4b6zL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -453,7 +344,8 @@
                                 </h5>
                                 <p class="price">$57.99</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border).php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border).php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -527,7 +419,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains White Silver 240 Plastic Plates & 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php" class="invisible">
+                            <a href="../details/Party Bargains White Silver 240 Plastic Plates & 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php"
+                                class="invisible">
                                 <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates & 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/71Kz6ZOsdPL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -541,7 +434,8 @@
                                     <small>+ $32.99</small>
                                 </p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains White Silver 240 Plastic Plates & 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains White Silver 240 Plastic Plates & 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
@@ -553,6 +447,92 @@
 </div> -->
                             <!-- /.ribbon -->
 
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set.php">
+                                            <img src="../img/products/plates/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set/71h4xXiC-9L._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set.php">
+                                            <img src="../img/products/plates/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set/91RaFEolFdL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set.php"
+                                class="invisible">
+                                <img src="../img/products/plates/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set/71h4xXiC-9L._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set.php">Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5" Plates
+                                        and 20-10.25" Plates) Heavyweight Plastic Elegant Dinnerware Set</a>
+                                </h5>
+                                <p class="price">$21.56</p>
+                                <p class="buttons">
+                                    <a href="../details/Royalty Collection, 40 Pack White with Silver Rim Plate Combo (Includes 20-7.5 Plates and 20-10.25 Plates) Heavyweight Plastic Elegant Dinnerware Set.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+
+                            <!-- <div class="ribbon new">
+    <div class="theribbon">NEW</div>
+    <div class="ribbon-background"></div>
+</div> -->
+                            <!-- /.ribbon -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates, Perfect for Weddings and Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Inch  Pack of 32.php">
+                                            <img src="../img/products/plates/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Pack of 32/81Q4rzquesL._SL1270_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates, Perfect for Weddings and Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Inch  Pack of 32.php">
+                                            <img src="../img/products/plates/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Pack of 32/81eFLDXGkHL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates, Perfect for Weddings and Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Inch  Pack of 32.php"
+                                class="invisible">
+                                <img src="../img/products/plates/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Pack of 32/81Q4rzquesL._SL1270_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates, Perfect for Weddings and Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Inch  Pack of 32.php">Party Bargains White Round China Like Plate | Silver Touch Collection High Gloss Hammered
+                                        Style Disposable plates - 16 x 10.25 Inch &amp; 16 x 7.5 Inch | Pack of 32</a>
+                                </h5>
+                                <p class="price">$31.48</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains White Round China Like Plate  Silver Touch Collection High Gloss Hammered Style Disposable plates, Perfect for Weddings and Dinnerware - 16 x 10.25 Inch &amp; 16 x 7.5 Inch  Pack of 32.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
                         </div>
                         <!-- /.product -->
                     </div>

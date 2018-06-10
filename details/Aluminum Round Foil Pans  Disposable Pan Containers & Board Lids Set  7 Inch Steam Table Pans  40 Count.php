@@ -10,50 +10,9 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="../categories/plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="../categories/alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="../categories/household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
-
 
 
                 <!-- *** MENUS AND FILTERS END *** -->
@@ -84,7 +43,8 @@
                     <div class="col-sm-6">
                         <div class="box">
                             <h2 class="text-center">Aluminum Round Foil Pans Disposable Pan Containers & Board Lids Set 7 Inch Steam Table Pans 40
-                                Count</h2>
+                                Count
+                            </h2>
                             <p class="price">$13.09</p>
 
                             <p class="text-center buttons">
@@ -176,7 +136,8 @@
                             asked. 100% 90 DAY MONEY BACK GUARANTEE!
                             <br/>
                             <br/> Grab yours now by clicking the Add to Cart button and these disposable foil pans won’t let you
-                            down.</p>
+                            down.
+                        </p>
                         <h4>Size</h4>
                         <ul>
                             <li>7" in diameter</li>

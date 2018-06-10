@@ -10,50 +10,9 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="../categories/plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="../categories/alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="../categories/household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
-
 
 
                 <!-- *** MENUS AND FILTERS END *** -->
@@ -129,11 +88,13 @@
                             <li>GRADE 0 FINE STEEL WOOL: The Party Bargains wool steel can be used for cleaning and barbecue
                                 grills. It cleans aluminum, copper, brass, zinc and other metals and also removes rust from
                                 metal tools (use with light oil for best results); great for copper pipe cleaning before
-                                soldering</li>
+                                soldering
+                            </li>
                             <li>HEAVY DUTY & HIGHLY DURABLE: The Party Bargains coarse steel wool easily removes stubborn stains
                                 from pots, pans, utensils and dishes. This long lasting, durable steel wool can be used on
                                 everything from tough cast iron to beautiful glassware, ensuring that you won’t scratch your
-                                products</li>
+                                products
+                            </li>
                             <li>ENVIRONMENT FRIENDLY: Party Bargains steel wool is environment friendly in nature and is very
                                 safe on hands to users. Therefore it is a hygienic way of cleaning kitchen products and items.</li>
                         </ul>

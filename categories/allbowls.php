@@ -11,48 +11,8 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
 
 
@@ -404,7 +364,8 @@
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php" class="invisible">
+                            <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php"
+                                class="invisible">
                                 <img src="../img/products/bowls/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Dinnerware (6 OZ BOWL) 10 pack/51MEnp2D1iL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
@@ -415,7 +376,8 @@
                                 </h5>
                                 <p class="price">$19.92</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Glamour Collection, Premium Heavyweight Elegant China-like Plastic Plates, White with BlueSilver Border Wedding, and Party Dinnerware (6 OZ BOWL) 10 pack.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>

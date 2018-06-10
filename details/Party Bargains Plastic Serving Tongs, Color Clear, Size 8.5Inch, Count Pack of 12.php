@@ -10,48 +10,8 @@
  _________________________________________________________ -->
                 <div class="panel panel-default sidebar-menu">
 
-                    <div class="panel-heading">
-                        <h3 class="panel-title">Categories</h3>
-                    </div>
+                    <?php include 'sidebar.php' ?>
 
-                    <div class="panel-body">
-                        <ul class="nav nav-pills nav-stacked category-menu">
-                            <li>
-                                <a href="../categories/plasticplates1.php">Plastic Plates</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcontainers1.php">Food Storage Bags & Containers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allbowls.php">Serving Bowls</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allserving.php">Serving Trays & Utensils</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allcutlery1.php">Disposable Plastic Cutlery</a>
-                            </li>
-                            <li>
-                                <a href="../categories/alldrinkwares1.php">Drink Wares</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allaluminum1.php">Aluminum</a>
-                            </li>
-                            <li>
-                                <a href="../categories/household.php">Household Products</a>
-                            </li>
-                            <li>
-                                <a href="tablecovers.php">Table Covers</a>
-                            </li>
-                            <li>
-                                <a href="../categories/candles.php">Candles</a>
-                            </li>
-                            <li>
-                                <a href="../categories/allminiwares1.php">Mini Wares</a>
-                            </li>
-                        </ul>
-
-                    </div>
                 </div>
 
 
@@ -150,7 +110,8 @@
                                 to day cooking and it's an necessary utensil in the kitchen and catering</li>
                             <li>Disposable Economical: This disposable tongs are the alternative to traditional serving tongs
                                 also eliminates the time spent on washing them after use. This is very economical with best
-                                quality</li>
+                                quality
+                            </li>
                         </ul>
                         <h4>Other Description</h4>
                         <p>Party bargain serving tong is easy to use and trash
