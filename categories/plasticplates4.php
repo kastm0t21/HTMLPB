@@ -1,6 +1,6 @@
 <?php include 'header.php' ?>
 
-<div id="all">
+<div id="all"> 
 
     <div id="content">
         <div class="container">

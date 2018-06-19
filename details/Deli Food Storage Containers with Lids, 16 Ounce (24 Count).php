@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
-
+ 
 <div id="all">
 
     <div id="content">

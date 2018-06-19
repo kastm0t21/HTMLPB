@@ -258,7 +258,8 @@
                             <div class="text">
                                 <h5>
                                     <a href="../details/Party Bargains Storage Containers with Lids, Size 64 oz (Half Gallon), Count Pack of 14.php">Party Bargains Storage Containers with Lids, Size: 64 oz (Half Gallon), Count: Pack of
-                                        14</a>
+                                        14
+                                    </a>
                                 </h5>
                                 <p class="price">
                                     $20.98</p>
