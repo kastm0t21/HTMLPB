@@ -89,7 +89,7 @@
                             <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php" class="invisible">
                                 <img src="../img/products/candles/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box/615m0zER9iL._SL1500_.jpg"
                                     alt="" class="img-responsive">
-                            </a>
+                            </a> 
                             <div class="text">
                                 <h5>
                                     <a href="../details/Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box.php">Blue Sky 2047 Clear Cup Tea Light in A Box (48Count) Clear Cup Tea Light in A Box

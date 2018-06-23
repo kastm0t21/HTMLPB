@@ -27,36 +27,34 @@
 
                 <div class="row products">
 
-                    <div class="col-md-4 col-sm-6" id="productimg">
+                    <div class="col-md-4 col-sm-6">
                         <div class="product">
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front container-fluid">
-                                        <a href="detail.php">
-                                            <img src="../img/products/plates/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40/71iQo1tf8OL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
+                                        <a href="../details/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40.php">
+                                            <img src="../img/products/plates/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40/71iQo1tf8OL._SL1500_.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="detail.php">
-                                            <img src="../img/products/plates/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40/613RB1raoFL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
+                                        <a href="../details/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40.php">
+                                            <img src="../img/products/plates/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40/613RB1raoFL._SL1500_.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="detail.php" class="invisible">
-                                <img src="../img/products/plates/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40/71iQo1tf8OL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
+                            <a href="../details/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40.php" class="invisible">
+                                <img src="../img/products/plates/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40/71iQo1tf8OL._SL1500_.jpg" alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="detail.php">Party Bargains White Plate | MOD Collection Durable &amp; Heavyweight Plastic Plates
-                                        Includes 20 x 7.5" Plates and 20 x 10.25" Plates - Combo Package | Pack of 40</a>
+                                    <a href="../details/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40.php">Disposable Plastic Plates Combo | Premium Quality White Dinnerware Set | Excellent for
+                                        Weddings, Baby &amp; Bridal Showers, Engagement Parties &amp; More | 7.5 Inch &amp;
+                                        10.25 Inch 20 Plates Each | 40 Count</a>
                                 </h5>
-                                <p class="price">$19.99</p>
+                                <p class="price">$20.58</p>
                                 <p class="buttons">
-                                    <a href="basket.php" class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains White Plate  MOD Collection Durable &amp; Heavyweight Plastic Plates Includes 20 x 7.5 Plates and 20 x 10.25 Plates - Combo Package  Pack of 40.php" class="btn btn-primary">View Details</a>
                                 </p>
                             </div>
                             <!-- /.text -->

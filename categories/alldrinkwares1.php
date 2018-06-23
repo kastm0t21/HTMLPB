@@ -24,7 +24,7 @@
                 <div class="box">
                     <h1>All Drink Wares</h1>
                 </div>
-
+ 
                 <div class="row products">
 
                     <div class="col-md-4 col-sm-6">

@@ -15,7 +15,7 @@
                     <?php include 'sidebar.php' ?>
 
                 </div>
-
+ 
 
                 <!-- *** MENUS AND FILTERS END *** -->
             </div>
