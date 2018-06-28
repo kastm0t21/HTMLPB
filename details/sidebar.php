@@ -5,37 +5,43 @@
 <div class="panel-body">
     <ul class="nav nav-pills nav-stacked category-menu">
         <li>
-            <a href="../categories/plasticplates1.php">Plastic Plates</a>
+            <a href="../categories/plasticplates1">Plastic Plates</a>
         </li>
         <li>
-            <a href="../categories/allcontainers1.php">Food Storage Bags & Containers</a>
+            <a href="../categories/allcontainers1">Food Storage Bags & Containers</a>
         </li>
         <li>
-            <a href="../categories/allbowls.php">Serving Bowls</a>
+            <a href="../categories/allbowls">Serving Bowls</a>
         </li>
         <li>
-            <a href="../categories/allserving.php">Serving Trays & Utensils</a>
+            <a href="../categories/allserving">Serving Trays & Utensils</a>
         </li>
         <li>
-            <a href="../categories/allcutlery1.php">Disposable Plastic Cutlery</a>
+            <a href="../categories/allcutlery1">Disposable Plastic Cutlery</a>
         </li>
         <li>
-            <a href="../categories/alldrinkwares1.php">Drink Wares</a>
+            <a href="../categories/alldrinkwares1">Drink Wares</a>
         </li>
         <li>
-            <a href="../categories/allaluminum1.php">Aluminum</a>
+            <a href="../categories/allaluminum1">Aluminum</a>
         </li>
         <li>
-            <a href="../categories/household.php">Household Products</a>
+            <a href="../categories/household">Household Products</a>
         </li>
         <li>
-            <a href="../categories/tablecovers.php">Table Covers</a>
+            <a href="../categories/tablecovers">Table Covers</a>
         </li>
         <li>
-            <a href="../categories/candles.php">Candles</a>
+            <a href="../categories/candles">Candles</a>
         </li>
         <li>
-            <a href="../categories/allminiwares1.php">Mini Wares</a>
+            <a href="../categories/allminiwares1">Mini Wares</a>
+        </li>
+        <li>
+            <a href="../categories/partycombosets">Party Combo Sets</a>
+        </li>
+        <li>
+            <a href="../categories/allcollection">Patterns & Collections</a>
         </li>
     </ul>
 

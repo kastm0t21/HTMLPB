@@ -47,7 +47,7 @@
                             <p class="price">$28.24</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Imperial-Premium-Party-Dinnerware-10-75inch/dp/B014S9CO9I/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1523243018&sr=1-1&keywords=Imperial+Premium+Square+China+Like+White%2Fsilver+40+Pieces+Plastic+Plates+Package+%28Includes+20+8inch+Sq.+Plates%2C+20+10.75inch+Sq.+Plates%29"
+                                <a href="https://www.amazon.com/dp/B014S9CO9I"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

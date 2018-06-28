@@ -281,6 +281,42 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/21Jn3at2IWL.jpg" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="invisible">
+                                <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">White 12 oz. Plastic Bowls - 100 Count(styles may vary)</a>
+                                </h5>
+                                <p class="price">$8.56</p>
+                                <p class="buttons">
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
                                         <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count.php">
                                             <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics & Parties - 6 Inch  120 Count/717n4QcXSGL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
@@ -503,52 +539,6 @@
                         <!-- /.product -->
                     </div>
 
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">
-                                            <img src="../img/products/plates/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set/71s8RDe32zL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">
-                                            <img src="../img/products/plates/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set/71s8RDe32zL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php"
-                                class="invisible">
-                                <img src="../img/products/plates/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set/71s8RDe32zL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack,
-                                        200 Piece Party Set.</a>
-                                </h5>
-                                <p class="price">$38.36</p>
-                                <p class="buttons">
-                                    <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php"
-                                        class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                            <!-- /.text -->
-
-                            <!-- <div class="ribbon new">
-            <div class="theribbon">NEW</div>
-            <div class="ribbon-background"></div>
-        </div> -->
-                            <!-- /.ribbon -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
                 </div>
                 <!-- /.products -->
 
@@ -574,6 +564,9 @@
                         </li>
                         <li>
                             <a href="plasticplates5.php">5</a>
+                        </li>
+                        <li>
+                            <a href="plasticplates6.php">6</a>
                         </li>
                         <li>
                             <a href="plasticplates2.php">&raquo;</a>

@@ -509,43 +509,33 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">
-                                            <img src="../img/products/plates/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set/71s8RDe32zL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">
-                                            <img src="../img/products/plates/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set/71s8RDe32zL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/21Jn3at2IWL.jpg" alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php"
-                                class="invisible">
-                                <img src="../img/products/plates/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set/71s8RDe32zL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
+                            <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="invisible">
+                                <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php">Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack,
-                                        200 Piece Party Set.</a>
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">White 12 oz. Plastic Bowls - 100 Count(styles may vary)</a>
                                 </h5>
-                                <p class="price">$38.36</p>
+                                <p class="price">$8.56</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Heavyweight Clear Salad and Dinner Plates, Plastic Silverware Combo Pack, 200 Piece Party Set..php"
-                                        class="btn btn-primary">View Details</a>
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
                             <!-- /.text -->
-
-                            <!-- <div class="ribbon new">
-<div class="theribbon">NEW</div>
-<div class="ribbon-background"></div>
-</div> -->
-                            <!-- /.ribbon -->
                         </div>
                         <!-- /.product -->
                     </div>
@@ -559,7 +549,7 @@
         <i class="fa fa-chevron-down"></i> Load more</a>
 </p> -->
 
-                    <ul class="pagination">
+                    <!-- <ul class="pagination">
                         <li class="active">
                             <a href="budgetplates.php">1</a>
                         </li>
@@ -569,7 +559,7 @@
                         <li>
                             <a href="budgetplates2.php">&raquo;</a>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
 
             </div>

@@ -84,13 +84,13 @@
                                                     <a href="categories/plasticplates1">All Plastic Plates</a>
                                                 </li>
                                                 <li>
-                                                    <a href="categories/squareplates">Square Plates</a>
-                                                </li>
-                                                <li>
                                                     <a href="categories/budgetplates">Everyday Budget Plates</a>
                                                 </li>
                                                 <li>
                                                     <a href="categories/roundplates">Round Plates</a>
+                                                </li>
+                                                <li>
+                                                    <a href="categories/squareplates">Square Plates</a>
                                                 </li>
                                             </ul>
                                             <h5>Food Storage Bags & Containers</h5>

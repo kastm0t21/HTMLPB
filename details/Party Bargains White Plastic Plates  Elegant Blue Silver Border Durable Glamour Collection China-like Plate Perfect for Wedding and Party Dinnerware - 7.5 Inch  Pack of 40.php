@@ -48,7 +48,7 @@
                             <p class="price">$28.00</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/dp/B01NBVFXPF" target="_blank" class="btn btn-primary">
+                                <a href="https://www.amazon.com/dp/B01NCWUGB3?th=1" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
 
