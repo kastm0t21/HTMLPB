@@ -1,4 +1,4 @@
-<?php include 'header.php' ?> 
+<?php include 'header.php' ?>
 
 <div id="all">
 
@@ -49,8 +49,6 @@
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
-
-
                         </div>
 
                         <div class="row" id="thumbs">
@@ -66,10 +64,33 @@
                                 </a>
                             </div>
                         </div>
+                        <div class="row" class="size">
+                            <h4>Package Quantity:</h4>
+                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes disabled">1</a>
+                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes">2</a>
+                        </div>
+                        <div class="row">
+                            <h4>Sizes:</h4>
+                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes disabled">6-Inch</a>
+                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes">7-Inch</a>
+                        </div>
                     </div>
 
                 </div>
 
+                <!-- <div class="row">
+                    <h4 class="text-center">Variations</h4>
+
+                    <div class="row" id="variation">
+                        <div class="col-xs-4">
+                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="thumb">
+                                <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White/81mFRK3q3EL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                                <p class="text-center">Sample</p>
+                            </a>
+                        </div>
+                    </div>
+                </div> -->
 
                 <div class="box" id="details">
                     <p>

@@ -2040,3 +2040,36 @@ address {
   margin-left: auto;
   margin-right: auto;
 }
+/* 
+#variation {
+  display: block;
+  height: auto;
+  width: 75px;
+} */
+
+#content #variation a {
+  height: auto;
+  width: 75px;
+}
+
+#variation .thumb img {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#variation .col-xs-4{
+  height: 100px;
+  width: 100px;
+}
+
+.sizes {
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+  border: solid 2px transparent;
+  border-width: 4px 10px 4px 10px;
+  /* margin-left: auto;
+  margin-right: auto; */
+  font-size: 20px;
+}
