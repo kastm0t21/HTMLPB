@@ -66,13 +66,8 @@
                         </div>
                         <div class="row" class="size">
                             <h4>Package Quantity:</h4>
-                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes disabled">1</a>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White.php" class="btn sizes disabled">1</a>
                             <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes">2</a>
-                        </div>
-                        <div class="row">
-                            <h4>Sizes:</h4>
-                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes disabled">6-Inch</a>
-                            <a href="../details/Blue Sky 200 Count Disposable White 6-inch Plastic Plates (2 Packs of 100).php" class="btn sizes">7-Inch</a>
                         </div>
                     </div>
 

@@ -654,7 +654,7 @@
             return false;
           }
         }
-
+ 
         slider.animating = true;
         slider.animatingTo = target;
 

@@ -1,4 +1,4 @@
-<?php include 'header.php' ?> 
+<?php include 'header.php' ?>
 
 <div id="all">
 
@@ -60,6 +60,11 @@
                                         alt="" class="img-responsive">
                                 </a>
                             </div>
+                        </div>
+                        <div class="row" class="size">
+                            <h4>Package Quantity:</h4>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 7, White.php" class="btn sizes">1</a>
+                            <a href="../details/Blue Sky 7-Inch White Plastic Plate (200 Count -7 Inch Plate).php" class="btn sizes disabled">2</a>
                         </div>
                     </div>
 

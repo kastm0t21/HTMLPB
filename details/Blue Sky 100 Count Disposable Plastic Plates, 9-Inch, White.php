@@ -1,4 +1,4 @@
-<?php include 'header.php' ?> 
+<?php include 'header.php' ?>
 
 <div id="all">
 
@@ -66,6 +66,11 @@
                                     <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/31YNBcrHQrL.jpg" alt="" class="img-responsive">
                                 </a>
                             </div>
+                        </div>
+                        <div class="row" class="size">
+                            <h4>Package Quantity:</h4>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php" class="btn sizes disabled">1</a>
+                            <a href="../details/Blue Sky 200 Count Disposable Plastic Plates, 9 Inch, White.php" class="btn sizes">2</a>
                         </div>
                     </div>
 
