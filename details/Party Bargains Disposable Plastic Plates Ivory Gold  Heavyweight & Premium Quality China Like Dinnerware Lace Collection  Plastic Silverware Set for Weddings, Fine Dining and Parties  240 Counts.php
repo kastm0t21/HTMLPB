@@ -80,6 +80,13 @@
                                 </a>
                             </div>
                         </div>
+                        <div class="row" class="size">
+                            <h4>Combo Pack:</h4>
+                            <a href="../details/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight &amp; Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                class="btn sizes disabled">1</a>
+                            <a href="../details/Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240 Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery).php"
+                                class="btn sizes">2</a>
+                        </div>
                     </div>
 
                 </div>
@@ -155,6 +162,51 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+                
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery).php">
+                                            <img src="../img/products/plates/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery)/81yUvSrXATL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery).php">
+                                            <img src="../img/products/plates/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery)/81ao-HoBs7L._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery).php"
+                                class="invisible">
+                                <img src="../img/products/plates/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery)/81yUvSrXATL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery).php">Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace
+                                        Collections White Plates, 160 Upscale Collection Silver Like Cutlery)</a>
+                                </h5>
+                                <p class="price">$57.99</p>
+                                <p class="buttons">
+                                    <a href="../details/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery).php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

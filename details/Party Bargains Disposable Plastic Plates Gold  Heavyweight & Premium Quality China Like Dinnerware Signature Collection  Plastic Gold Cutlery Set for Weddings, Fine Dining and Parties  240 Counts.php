@@ -46,7 +46,6 @@
                             <h2 class="text-center">Party Bargains Disposable Plastic Plates Gold Heavyweight & Premium Quality China Like Dinnerware
                                 Signature Collection Plastic Gold Cutlery Set for Weddings, Fine Dining and Parties 240 Counts</h2>
                             <p class="price">$59.99</p>
-
                             <p class="text-center buttons">
                                 <a href="https://www.amazon.com/dp/B073K1X84B" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
@@ -63,6 +62,15 @@
                                         alt="" class="img-responsive">
                                 </a>
                             </div>
+                        </div>
+                        <div class="row" class="size">
+                            <h4>Combo Pack:</h4>
+                            <a href="../details/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border).php"
+                                class="btn sizes">1</a>
+                            <a href="../details/Party Bargains Disposable Plastic Plates Gold  Heavyweight &amp; Premium Quality China Like Dinnerware Signature Collection  Plastic Gold Cutlery Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                class="btn sizes disabled">2</a>
+                            <a href="../details/Party Bargains 720 Count Signature Collection, Plastic China Like Plates Silverware Combo, Gold.php"
+                                class="btn sizes">3</a>
                         </div>
                     </div>
 
@@ -140,6 +148,51 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php">
+                                            <img src="../img/products/plates/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts/71HrXYdeGLL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php">
+                                            <img src="../img/products/plates/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts/71sgM0ZcpzL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                class="invisible">
+                                <img src="../img/products/plates/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts/71HrXYdeGLL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php">Party Bargains Disposable Plastic Plates White Silver | Heavyweight &amp; Premium Quality
+                                        China Like Dinner Collection | Plastic Silverware Set for Weddings, Fine Dining and
+                                        Parties | 240 Counts</a>
+                                </h5>
+                                <p class="price">$57.99</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

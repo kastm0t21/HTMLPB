@@ -196,9 +196,7 @@
                                     <a href="../details/Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240 Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery).php">Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240
                                         Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery)</a>
                                 </h5>
-                                <p class="price">$124.99
-                                    <small>+ $44.62 shipping</small>
-                                </p>
+                                <p class="price">$124.99</p>
                                 <p class="buttons">
                                     <a href="../details/Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240 Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery).php" class="btn btn-primary">View Details</a>
                                 </p>

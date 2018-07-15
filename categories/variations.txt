@@ -1,0 +1,12 @@
+<div class="row" class="size">
+    <h4>Combo Pack:</h4>
+    <a href="../details/" class="btn sizes">1</a>
+    <a href="../details/" class="btn sizes">2</a>
+</div>
+
+<div>
+    <h4>Related Products:</h4>
+    
+    
+
+</div>

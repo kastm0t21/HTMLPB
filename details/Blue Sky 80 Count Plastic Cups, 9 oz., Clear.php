@@ -49,7 +49,6 @@
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
 
-
                         </div>
 
                         <div class="row" id="thumbs">

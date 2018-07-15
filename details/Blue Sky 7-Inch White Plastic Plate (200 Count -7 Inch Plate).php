@@ -14,7 +14,6 @@
 
                 </div>
 
-
                 <!-- *** MENUS AND FILTERS END *** -->
             </div>
 
@@ -38,7 +37,6 @@
                                 <div class="ribbon-background"></div>
                             </div> -->
                         <!-- /.ribbon -->
-
                     </div>
                     <div class="col-sm-6">
                         <div class="box">
@@ -96,6 +94,136 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White/81mFRK3q3EL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White/31DSG2SEZXL.jpg" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White.php" class="invisible">
+                                <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White/81mFRK3q3EL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White.php">Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White</a>
+                                </h5>
+                                <p class="price">
+                                    $8.15</p>
+                                <p class="buttons">
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 6-Inch, White.php" class="btn btn-primary">View Details</a>
+                                </p>
+                            </div>
+                            <!-- /.text -->
+
+                            <!-- <div class="ribbon sale">
+                <div class="theribbon">SALE</div>
+                <div class="ribbon-background"></div>
+            </div> -->
+                            <!-- /.ribbon -->
+
+                            <!-- <div class="ribbon new">
+                <div class="theribbon">NEW</div>
+                <div class="ribbon-background"></div>
+            </div> -->
+                            <!-- /.ribbon -->
+
+                            <!-- <div class="ribbon gift">
+                <div class="theribbon">GIFT</div>
+                <div class="ribbon-background"></div>
+            </div> -->
+                            <!-- /.ribbon -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front container-fluid">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/81qXD5CtYjL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/31YNBcrHQrL.jpg" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php" class="invisible">
+                                <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/81qXD5CtYjL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php">Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White</a>
+                                </h5>
+                                <p class="price">$12.75</p>
+                                <p class="buttons">
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php" class="btn btn-primary">View Details</a>
+                                </p>
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/21Jn3at2IWL.jpg" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="invisible">
+                                <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">White 12 oz. Plastic Bowls - 100 Count(styles may vary)</a>
+                                </h5>
+                                <p class="price">$8.56</p>
+                                <p class="buttons">
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

@@ -533,9 +533,7 @@
                                 <h5>
                                     <a href="../details/Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver.php">Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver</a>
                                 </h5>
-                                <p class="price">$134.99 +
-                                    <small> $32.99</small>
-                                </p>
+                                <p class="price">$134.99</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver.php" class="btn btn-primary">View Details</a>
                                 </p>
@@ -621,9 +619,7 @@
                                         Like Cutlery | Imperial Collection China Like Plate and Silverware - 240 Pcs | Combo
                                         Pack for 40 People</a>
                                 </h5>
-                                <p class="price">$59.99 +
-                                    <small>$19.24 shipping</small>
-                                </p>
+                                <p class="price">$59.99</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains Ivory Gold 80 Square Plastic Plates &amp; 160 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 240 Pcs  Combo Pack for 40 People.php"
                                         class="btn btn-primary">View Details</a>
@@ -663,9 +659,7 @@
                                         Like Cutlery | Imperial Collection China Like Plate and Silverware - 240 Pcs | Combo
                                         Pack for 40 People</a>
                                 </h5>
-                                <p class="price">$59.99 +
-                                    <small>$19.24 shipping</small>
-                                </p>
+                                <p class="price">$59.99</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains Ivory Gold 80 Square Plastic Plates &amp; 160 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 240 Pcs  Combo Pack for 40 People.php"
                                         class="btn btn-primary">View Details</a>
@@ -705,9 +699,7 @@
                                         Like Cutlery | Imperial Collection China Like Plate and Silverware - 720 Pcs | Combo
                                         Pack for 120 People</a>
                                 </h5>
-                                <p class="price">$139.99 +
-                                    <small>$36.74 shipping</small>
-                                </p>
+                                <p class="price">$139.99</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People.php"
                                         class="btn btn-primary">View Details</a>
@@ -786,9 +778,7 @@
                                         Like Cutlery | Imperial Collection China Like Plate and Silverware - 240 Pcs | Combo
                                         Pack for 40 People</a>
                                 </h5>
-                                <p class="price">$59.99 +
-                                    <small>$19.24 shipping</small>
-                                </p>
+                                <p class="price">$59.99</p>
                                 <p class="buttons">
                                     <a href="https://www.amazon.com/dp/B01N4I87DZ" class="btn btn-primary">View Details</a>
                                 </p>
@@ -991,9 +981,7 @@
                                     <a href="../details/Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240 Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery).php">Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240
                                         Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery)</a>
                                 </h5>
-                                <p class="price">$124.99
-                                    <small>+ $44.62 shipping</small>
-                                </p>
+                                <p class="price">$124.99</p>
                                 <p class="buttons">
                                     <a href="../details/Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240 Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery).php"
                                         class="btn btn-primary">View Details</a>

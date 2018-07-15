@@ -46,7 +46,7 @@
                             <h2 class="text-center">Party Bargains White Silver 240 Square Plastic Plates & 480 Upscale Collection Cutlery Imperial
                                 Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs Combo Pack for
                                 120 People</h2>
-                            <p class="price">$175.00</p>
+                            <p class="price">$139.99</p>
 
                             <p class="text-center buttons">
                                 <a href="https://www.amazon.com/dp/B01MYZESWX" target="_blank" class="btn btn-primary">
@@ -78,6 +78,13 @@
                                         alt="" class="img-responsive">
                                 </a>
                             </div>
+                        </div>
+                        <div class="row" class="size">
+                            <h4>Combo Pack:</h4>
+                            <a href="../details/Party Bargains White Silver 80 Square Plastic Plates &amp; 160 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 240 Pcs  Combo Pack for 40 People.php"
+                                class="btn sizes">1</a>
+                            <a href="../details/Party Bargains White Silver 240 Square Plastic Plates &amp; 480 Upscale Collection Cutlery  Imperial Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php"
+                                class="btn sizes disabled">2</a>
                         </div>
                     </div>
 
@@ -132,6 +139,51 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People.php">
+                                            <img src="../img/products/plates/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People/81g0jxi3GOL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People.php">
+                                            <img src="../img/products/plates/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People/81e4UHPL6vL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People.php"
+                                class="invisible">
+                                <img src="../img/products/plates/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People/81g0jxi3GOL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People.php">Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver
+                                        Like Cutlery | Imperial Collection China Like Plate and Silverware - 720 Pcs | Combo
+                                        Pack for 120 People</a>
+                                </h5>
+                                <p class="price">$139.99</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Ivory Gold 240 Square Plastic Plates &amp; 480 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 720 Pcs  Combo Pack for 120 People.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

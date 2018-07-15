@@ -45,9 +45,7 @@
                         <div class="box">
                             <h2 class="text-center">Party Bargains Ivory Gold 80 Square Plastic Plates & 160 Upscale Collection Silver Like Cutlery
                                 Imperial Collection China Like Plate and Silverware - 240 Pcs Combo Pack for 40 People</h2>
-                            <p class="price">$59.99 +
-                                <small>$19.24 shipping</small>
-                            </p>
+                            <p class="price">$59.99</p>
 
                             <p class="text-center buttons">
                                 <a href="https://www.amazon.com/dp/B01N7MF8D1" target="_blank" class="btn btn-primary">

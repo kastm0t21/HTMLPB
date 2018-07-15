@@ -26,7 +26,7 @@
                         <div id="mainImage">
                             <img src="../img/products/drink/7 Oz. Plastic ClearTransparent Cups - 400 Count - Bulk Pack (4 Packs of 100) (400 Count)/41BUx9AGbKL._SL1022_.jpg"
                                 alt="" class="img-responsive">
-                        </div>
+                        </div>  
 
                         <!-- <div class="ribbon sale">
                                 <div class="theribbon">SALE</div>

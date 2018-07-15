@@ -114,6 +114,104 @@
                                     </p>
                                 </blockquote> -->
                 </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT).php">
+                                            <img src="../img/products/plates/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT)/71ge+TgYnIL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT).php">
+                                            <img src="../img/products/plates/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT)/61oMWpO9fPL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT).php" class="invisible">
+                                <img src="../img/products/plates/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT)/71ge+TgYnIL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT).php">Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT)
+                                    </a>
+                                </h5>
+                                <p class="price">$15.56</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains 7 Inch Clear Premium Disposable Plastic Plates (120 COUNT).php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+
+                            <!-- <div class="ribbon new">
+            <div class="theribbon">NEW</div>
+            <div class="ribbon-background"></div>
+        </div> -->
+                            <!-- /.ribbon -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count.php">
+                                            <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count/719trX6xs3L._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count.php">
+                                            <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count/61uzM0HtEjL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count.php"
+                                class="invisible">
+                                <img src="../img/products/plates/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count/719trX6xs3L._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count.php">Party Bargains Plastic Dinner Plates | Premium Quality Disposable Clear Dinnerware Ideal
+                                        for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch | 120 Count
+                                    </a>
+                                </h5>
+                                <p class="price">$22.56</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Plastic Dinner Plates  Premium Quality Disposable Clear Dinnerware Ideal for Catering, Food serving, Wedding, Picnics &amp; Parties - 9 Inch  120 Count.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+
+                            <!-- <div class="ribbon gift">
+                                <div class="theribbon">GIFT</div>
+                                <div class="ribbon-background"></div>
+                            </div> -->
+                            <!-- /.ribbon -->
+
+                        </div>
+                        <!-- /.product -->
+                    </div>
+                    
+
+                </div>
                 <!-- /.product -->
 
             </div>

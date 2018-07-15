@@ -1,4 +1,4 @@
-<?php include 'header.php' ?> 
+<?php include 'header.php' ?>
 
 <div id="all">
 
@@ -47,8 +47,7 @@
                             <p class="price">$14.58</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Square-Unbreakable-Plastic-Serving-Party/dp/B016SQ5F7W/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1526486342&sr=1-1&keywords=Blue+Sky%2C+Square+Unbreakable+Clear+Plastic+Serving+Bowls%2C+64+Ounce%2C+Set+of+5%2C+Party+Snack+or+Salad+Bowl"
-                                    target="_blank" class="btn btn-primary">
+                                <a href="https://www.amazon.com/dp/B016SQ5F7W/" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
 
@@ -100,6 +99,51 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl.php">
+                                            <img src="../img/products/bowls/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl/51m6wwNYW+L._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl.php">
+                                            <img src="../img/products/bowls/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl/61q-39F9HyL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl.php"
+                                class="invisible">
+                                <img src="../img/products/bowls/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl/51m6wwNYW+L._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl.php">Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack
+                                        or Salad Bowl</a>
+                                </h5>
+                                <p class="price">$12.59</p>
+                                <p class="buttons">
+                                    <a href="../details/Blue Sky, Square Unbreakable Clear Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

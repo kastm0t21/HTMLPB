@@ -84,7 +84,8 @@
                                 for durability and to present the food in style</li>
                             <li>DESIGN: Angled neck ensures a firm grip while holding. Deep angled interior makes small proportions
                                 enhanced when presented that draws attention of your guests and makes for an incredibly appetizing
-                                presentation</li>
+                                presentation
+                            </li>
                             <li>VERSATILE: Their stylish and innovative design adds a decorative touch to any party. Use them
                                 for relish, petit fours, hors d'oeuvres, desserts, pastries, fruit compote and cake squares</li>
                             <li>USES: The bowls uses are endless. It can be used as appetizer/dessert bowl, single servings for
@@ -133,6 +134,88 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16.php">
+                                            <img src="../img/products/bowls/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16/81ZtQWjVTAL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16.php">
+                                            <img src="../img/products/bowls/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16/71oPPjhrmvL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16.php" class="invisible">
+                                <img src="../img/products/bowls/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16/81ZtQWjVTAL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16.php">Party Bargains Hard Plastic Angled Small Serving Bowls, Color: Clear, Value Pack of 16</a>
+                                </h5>
+                                <p class="price">$13.12</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Hard Plastic Angled Small Serving Bowls, Color Clear, Value Pack of 16.php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Plastic Bowls  Angled Serving Bowl Clear Medium Perfect For Weddings, Birthdays, Celebrations, Buffets &amp; Catering  Pack of 5.php">
+                                            <img src="../img/products/bowls/Party Bargains Hard Plastic Angled Large Serving Bowls, Color Clear, Value Pack of 5/51Rtw8Vg2lL._SL1368_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Plastic Bowls  Angled Serving Bowl Clear Medium Perfect For Weddings, Birthdays, Celebrations, Buffets &amp; Catering  Pack of 5.php">
+                                            <img src="../img/products/bowls/Party Bargains Hard Plastic Angled Large Serving Bowls, Color Clear, Value Pack of 5/51Rtw8Vg2lL._SL1368_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Plastic Bowls  Angled Serving Bowl Clear Medium Perfect For Weddings, Birthdays, Celebrations, Buffets &amp; Catering  Pack of 5.php"
+                                class="invisible">
+                                <img src="../img/products/bowls/Party Bargains Hard Plastic Angled Large Serving Bowls, Color Clear, Value Pack of 5/51Rtw8Vg2lL._SL1368_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Plastic Bowls  Angled Serving Bowl Clear Medium Perfect For Weddings, Birthdays, Celebrations, Buffets &amp; Catering  Pack of 5.php">Party Bargains Plastic Bowls | Angled Serving Bowl Clear Medium Perfect For Weddings,
+                                        Birthdays, Celebrations, Buffets &amp; Catering | Pack of 5</a>
+                                </h5>
+                                <p class="price">$13.92</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Plastic Bowls  Angled Serving Bowl Clear Medium Perfect For Weddings, Birthdays, Celebrations, Buffets &amp; Catering  Pack of 5.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

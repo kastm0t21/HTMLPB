@@ -45,7 +45,7 @@
                             <p class="price">$9.10</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/YW-YSD-2532-12-Plastic-Soup-Container/dp/B06Y6JWQTD/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1526258623&sr=1-1&keywords=32oz+plastic+soup%2FFood+container+with+lids"
+                                <a href="https://www.amazon.com/dp/B06Y6JWQTD/"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

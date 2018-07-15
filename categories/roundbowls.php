@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
- 
+
 <div id="all">
 
     <div id="content">
@@ -26,81 +26,6 @@
                 </div>
 
                 <div class="row products">
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php">
-                                            <img src="../img/products/bowls/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50/61tjWp20GhL._SL1320_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php">
-                                            <img src="../img/products/bowls/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50/61tjWp20GhL._SL1320_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php" class="invisible">
-                                <img src="../img/products/bowls/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50/61tjWp20GhL._SL1320_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php">Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50</a>
-                                </h5>
-                                <p class="price">$10/52</p>
-                                <p class="buttons">
-                                    <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                            <!-- /.text -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">
-                                            <img src="../img/products/bowls/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack/71gr6JFljDL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">
-                                            <img src="../img/products/bowls/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack/71cRe4txyUL._SL1500_.jpg"
-                                                alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php" class="invisible">
-                                <img src="../img/products/bowls/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack/71gr6JFljDL._SL1500_.jpg"
-                                    alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">Party Bargains Plastic Serving Bowl, Color: Crystal Clear, Size: 9x9x4 Inch Large, Count:
-                                        4/Pack</a>
-                                </h5>
-                                <p class="price">$16.00</p>
-                                <p class="buttons">
-                                    <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                            <!-- /.text -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
 
                     <div class="col-md-4 col-sm-6">
                         <div class="product">
@@ -145,33 +70,32 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="../details/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round White  Pack Of 40.php">
-                                            <img src="../img/products/bowls/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round/81mW9fWf31L._SL1500_.jpg"
+                                        <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">
+                                            <img src="../img/products/bowls/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack/71gr6JFljDL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="../details/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round White  Pack Of 40.php">
-                                            <img src="../img/products/bowls/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round/61ttkPDj-tL._SL1261_.jpg"
+                                        <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">
+                                            <img src="../img/products/bowls/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack/71cRe4txyUL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round White  Pack Of 40.php"
-                                class="invisible">
-                                <img src="../img/products/bowls/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round/81mW9fWf31L._SL1500_.jpg"
+                            <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php" class="invisible">
+                                <img src="../img/products/bowls/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack/71gr6JFljDL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="../details/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round White  Pack Of 40.php">Party Bargains Disposable Plastic Bowl | Silver Touch Collection Elegant High Gloss Hammered
-                                        Border Designed Bowls - 12oz Round White | Pack Of 40</a>
+                                    <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php">Party Bargains Plastic Serving Bowl, Color: Crystal Clear, Size: 9x9x4 Inch Large, Count:
+                                        4/Pack
+                                    </a>
                                 </h5>
-                                <p class="price">$27.08</p>
+                                <p class="price">$16.00</p>
                                 <p class="buttons">
-                                    <a href="../details/Party Bargains Disposable Plastic Bowl  Silver Touch Collection Elegant High Gloss Hammered Border Designed Bowls - 12oz Round White  Pack Of 40.php"
-                                        class="btn btn-primary">View Details</a>
+                                    <a href="../details/Party Bargains Plastic Serving Bowl, Color Crystal Clear, Size 9x9x4 Inch Large, Count 4Pack.php" class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>

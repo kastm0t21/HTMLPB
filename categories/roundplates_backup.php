@@ -224,7 +224,7 @@
                                 </div>
                             </div>
                             <!-- /.product -->
-                        </div>
+                        </div>  
 
 
                     <div class="col-md-4 col-sm-6">
@@ -337,51 +337,6 @@
 
                             </div>
                             <!-- /.text -->
-                        </div>
-                        <!-- /.product -->
-                    </div>
-
-                    <div class="col-md-4 col-sm-6">
-                        <div class="product">
-                            <div class="flip-container">
-                                <div class="flipper">
-                                    <div class="front">
-                                        <a href="../details/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php">
-                                            <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/71Kz6ZOsdPL._SL1500_.jpg" alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                    <div class="back">
-                                        <a href="../details/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php">
-                                            <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/81e4UHPL6vL._SL1500_.jpg" alt="" class="img-responsive">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <a href="../details/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php" class="invisible">
-                                <img src="../img/products/plates/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection - 720 Pcs  Combo Pack for 120 People/71Kz6ZOsdPL._SL1500_.jpg" alt="" class="img-responsive">
-                            </a>
-                            <div class="text">
-                                <h5>
-                                    <a href="../details/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php">Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery |
-                                        Signature Collection China Like Silver border Plate and Elegant Silverware - 720
-                                        Pcs | Combo Pack for 120 People</a>
-                                </h5>
-                                <p class="price">$129.99
-                                    <small>+ $32.99</small>
-                                </p>
-                                <p class="buttons">
-                                    <a href="../details/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php" class="btn btn-primary">View Details</a>
-                                </p>
-
-                            </div>
-                            <!-- /.text -->
-
-                            <!-- <div class="ribbon gift">
-<div class="theribbon">GIFT</div>
-<div class="ribbon-background"></div>
-</div> -->
-                            <!-- /.ribbon -->
-
                         </div>
                         <!-- /.product -->
                     </div>

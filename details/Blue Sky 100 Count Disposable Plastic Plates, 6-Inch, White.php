@@ -45,8 +45,7 @@
                             <p class="price">$8.15</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Blue-Sky-Disposable-Plastic-Plates/dp/B0053KLQLE/ref=sr_1_1?s=home-garden&ie=UTF8&qid=1523228293&sr=1-1&keywords=Blue+Sky+100+Count+Disposable+Plastic+Plates%2C+6-Inch%2C+White&refinements=p_n_srvg_2947266011%3A2972996011"
-                                    target="_blank" class="btn btn-primary">
+                                <a href="https://www.amazon.com/dp/B0053KLQLE/" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
                         </div>
@@ -112,6 +111,117 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 7, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 7, White/71CmvJp1AyL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 7, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 7, White/71CmvJp1AyL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 7, White.php" class="invisible">
+                                <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 7, White/71CmvJp1AyL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 7, White.php">Blue Sky 100 Count Disposable Plastic Plates, 7", White</a>
+                                </h5>
+                                <p class="price">$11.00</p>
+                                <p class="buttons">
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 7, White.php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front container-fluid">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/81qXD5CtYjL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php">
+                                            <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/31YNBcrHQrL.jpg" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php" class="invisible">
+                                <img src="../img/products/plates/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White/81qXD5CtYjL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php">Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White</a>
+                                </h5>
+                                <p class="price">$12.75</p>
+                                <p class="buttons">
+                                    <a href="../details/Blue Sky 100 Count Disposable Plastic Plates, 9-Inch, White.php" class="btn btn-primary">View Details</a>
+                                </p>
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                                class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">
+                                            <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/21Jn3at2IWL.jpg" alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="invisible">
+                                <img src="../img/products/bowls/White 12 oz. Plastic Bowls - 100 Count(styles may vary)/71GKg+FeVlL._SL1500_.jpg" alt=""
+                                    class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php">White 12 oz. Plastic Bowls - 100 Count(styles may vary)</a>
+                                </h5>
+                                <p class="price">$8.56</p>
+                                <p class="buttons">
+                                    <a href="../details/White 12 oz. Plastic Bowls - 100 Count(styles may vary).php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

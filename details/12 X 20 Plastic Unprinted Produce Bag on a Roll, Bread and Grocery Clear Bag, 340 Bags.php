@@ -46,7 +46,7 @@
                             <p class="price">$14.57</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Plastic-Unprinted-Produce-Bread-Grocery/dp/B00FERHTF8/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1526198247&sr=1-1&keywords=12%22+X+20%22+Plastic+Unprinted+Produce+Bag+on+a+Roll%2C+Bread+and+Grocery+Clear+Bag%2C+340+Bags"
+                                <a href="https://www.amazon.com/dp/B00FERHTF8/"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

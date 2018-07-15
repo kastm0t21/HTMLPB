@@ -14,7 +14,6 @@
 
                 </div>
 
-
                 <!-- *** MENUS AND FILTERS END *** -->
             </div>
 
@@ -47,7 +46,7 @@
                             <p class="price">$19.58</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Crescent-Collection-Premium-Plastic-Dinnerware/dp/B01575KL10/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1523242057&sr=1-1&keywords=Crescent+Collection%2C+40+Pack+Premium+Like+Real+China+White+Square+7+Inch+Plastic+Plates%2C+Wedding+and+Party+Dinnerware"
+                                <a href="https://www.amazon.com/dp/B01575KL10/"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

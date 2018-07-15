@@ -46,7 +46,7 @@
                             <p class="price">$9.11</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Blue-Sky-Heavyweight-Plastic-Platters/dp/B009YSM3Y0/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1526001023&sr=1-1&keywords=Blue+Sky+10+Count+Heavyweight+Plastic+Oval+Platters%2C+9%22+x+12%22%2C+Clear"
+                                <a href="https://www.amazon.com/dp/B009YSM3Y0/"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

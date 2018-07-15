@@ -379,9 +379,7 @@
                         <!-- /.product -->
                     </div>
 
-
-
-                    <div class="col-md-4 col-sm-6">
+                    <!-- <div class="col-md-4 col-sm-6">
                         <div class="product">
                             <div class="flip-container">
                                 <div class="flipper">
@@ -420,7 +418,6 @@
 
                             </div>
                         </div>
-                        <!-- /.product -->
                     </div>
 
                     <div class="col-md-4 col-sm-6">
@@ -462,7 +459,6 @@
 
                             </div>
                         </div>
-                        <!-- /.product -->
                     </div>
 
                     <div class="col-md-4 col-sm-6">
@@ -504,7 +500,6 @@
 
                             </div>
                         </div>
-                        <!-- /.product -->
                     </div>
 
                     <div class="col-md-4 col-sm-6">
@@ -544,8 +539,7 @@
 
                             </div>
                         </div>
-                        <!-- /.product -->
-                    </div>
+                    </div> -->
 
 
                 </div>
@@ -577,12 +571,12 @@
                         <li class="active">
                             <a href="plasticplates5.php">5</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="plasticplates6.php">6</a>
                         </li>
                         <li>
                             <a href="plasticplates6.php">&raquo;</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>

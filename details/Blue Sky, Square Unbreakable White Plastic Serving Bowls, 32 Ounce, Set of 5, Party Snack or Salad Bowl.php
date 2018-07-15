@@ -1,4 +1,4 @@
-<?php include 'header.php' ?>
+<?php include 'header.php' ?> 
 
 <div id="all">
 
@@ -41,11 +41,11 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="box">
-                            <h2 class="text-center"></h2>
-                            <p class="price">$</p>
+                            <h2 class="text-center">Blue Sky, Square Unbreakable White Plastic Serving Bowls, 32 Ounce, Set of 5, Party Snack or Salad Bowl</h2>
+                            <p class="price">$12.59</p>
 
                             <p class="text-center buttons">
-                                <a href="" target="_blank" class="btn btn-primary">
+                                <a href="https://www.amazon.com/dp/B016SQ5DXI?th=1" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
 

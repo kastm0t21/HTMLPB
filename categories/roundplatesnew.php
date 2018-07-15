@@ -442,9 +442,7 @@
                                         Signature Collection China Like Silver border Plate and Elegant Silverware - 720
                                         Pcs | Combo Pack for 120 People</a>
                                 </h5>
-                                <p class="price">$129.99
-                                    <small>+ $32.99</small>
-                                </p>
+                                <p class="price">$129.99</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains White Silver 240 Plastic Plates &amp; 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php"
                                         class="btn btn-primary">View Details</a>
@@ -533,9 +531,7 @@
                                 <h5>
                                     <a href="../details/Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver.php">Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver</a>
                                 </h5>
-                                <p class="price">$134.99 +
-                                    <small> $32.99</small>
-                                </p>
+                                <p class="price">$134.99</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver.php" class="btn btn-primary">View Details</a>
                                 </p>

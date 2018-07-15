@@ -130,9 +130,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                                     <a href="categories/allbowls">All Serving Bowls</a>
                                                 </li>
                                                 <li>
-                                                    <a href="#">Unbreakable Plastic Serving Bowls</a>
-                                                </li>
-                                                <li>
                                                     <a href="categories/angled">Hard Plastic Angled Serving Bowls</a>
                                                 </li>
                                                 <li>

@@ -167,7 +167,7 @@
                                     <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php">Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48
                                         Knives, 48 Spoons, Party of 48 Combo Pack</a>
                                 </h5>
-                                <p class="price">$18.99 </p>
+                                <p class="price">$18.99</p>
                                 <p class="buttons">
                                     <a href="../details/Silver Like Elegant Heavyweight Polished Silver Plastic Cutlery (192 Pc), 96 Forks, 48 Knives, 48 Spoons, Party of 48 Combo Pack.php"
                                         class="btn btn-primary">View Details</a>

@@ -1,4 +1,4 @@
-<?php include 'header.php' ?> 
+<?php include 'header.php' ?>
 
 <div id="all">
 
@@ -47,8 +47,7 @@
                             <p class="price">$32.99</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Christmas-Disposable-Dinnerware-Napkins-Party/dp/B01M1P15K8/ref=sr_1_2?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1525574214&sr=1-2&keywords=Christmas+Disposable+Dinnerware+for+40+Guests%2C+280+Pieces+Set+of+Paper+Plates%2C+Cups%2C+Napkins%2C+Plastic+Forks+and+Knives+%28PARTY+PACK+FOR+40%29"
-                                    target="_blank" class="btn btn-primary">
+                                <a href="https://www.amazon.com/dp/B01M1P15K8/" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
 
@@ -85,6 +84,15 @@
                                 </a>
                             </div>
                         </div>
+                        <div class="row" class="size">
+                            <h4>Combo Pack:</h4>
+                            <a href="../details/Christmas Disposable Dinnerware for 40 Guests, 280 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives (PARTY PACK FOR 40).php"
+                                class="btn sizes disabled">1</a>
+                            <a href="../details/Christmas Disposable Dinnerware for 40 Guests, 280 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives (PARTY PACK FOR 40) - Copy.php"
+                                class="btn sizes">2</a>
+                            <a href="../details/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives..php"
+                                class="btn sizes">3</a>
+                        </div>
                     </div>
 
                 </div>
@@ -108,7 +116,8 @@
                             your time hunting down each piece of the party. service for 40 includes two sizes of plates,
                             napkins, cups, and cutlery. Whether you're planning an intimate dinner, a family gathering or
                             a party, you can trust Blue Sky for high quality, consistent color matching and attention to
-                            detail.</p>
+                            detail.
+                        </p>
                         <h4>Size</h4>
                         <ul>
                             <li>10.25" and 7.5" in diameter</li>
@@ -119,6 +128,57 @@
                                         <em></em>
                                     </p>
                                 </blockquote> -->
+                </div>
+
+                <div>
+                    <h4>Related Products:</h4>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives - Copy.php">
+                                            <img src="../img/products/plates/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives/81GWqoEnB2L._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives - Copy.php">
+                                            <img src="../img/products/plates/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives/81GWqoEnB2L._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives - Copy.php"
+                                class="invisible">
+                                <img src="../img/products/plates/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives/81GWqoEnB2L._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives - Copy.php">Christmas Disposable Dinnerware for 40 Guests, 280 Pieces Set of Paper Plates, Cups,
+                                        Napkins, Plastic Forks and Knives.</a>
+                                </h5>
+                                <p class="price">$32.99</p>
+                                <p class="buttons">
+                                    <a href="../details/Christmas Disposable Dinnerware for 80 Guests, 560 Pieces Set of Paper Plates, Cups, Napkins, Plastic Forks and Knives - Copy.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+
+                            <!-- <div class="ribbon new">
+<div class="theribbon">NEW</div>
+<div class="ribbon-background"></div>
+</div> -->
+                            <!-- /.ribbon -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.product -->
 

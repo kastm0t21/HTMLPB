@@ -44,9 +44,7 @@
                     <div class="col-sm-6">
                         <div class="box">
                             <h2 class="text-center">Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver</h2>
-                            <p class="price">$134.99 +
-                                <small>$32.99 shipping</small>
-                            </p>
+                            <p class="price">$134.9</p>
 
                             <p class="text-center buttons">
                                 <a href="https://www.amazon.com/dp/B01NBK5HZ0" target="_blank" class="btn btn-primary">

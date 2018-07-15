@@ -554,9 +554,9 @@
                         <li>
                             <a href="plasticplates5.php">5</a>
                         </li>
-                        <li>
+                        <!-- <li>
                             <a href="plasticplates6.php">6</a>
-                        </li>
+                        </li> -->
                         <li>
                             <a href="plasticplates3.php">&raquo;</a>
                         </li>

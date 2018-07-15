@@ -53,7 +53,7 @@
                             </p>
 
 
-                        </div>
+                        </div>   
 
                         <div class="row" id="thumbs">
                             <div class="col-xs-4">

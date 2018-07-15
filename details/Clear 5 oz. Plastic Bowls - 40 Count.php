@@ -45,7 +45,7 @@
                             <p class="price">$7.38</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Clear-oz-Plastic-Bowls-Count/dp/B0053KLWFE/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1526488768&sr=1-1&keywords=Clear+5+oz.+Plastic+Bowls+-+40+Count"
+                                <a href="https://www.amazon.com/dp/B0053KLWFE/"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

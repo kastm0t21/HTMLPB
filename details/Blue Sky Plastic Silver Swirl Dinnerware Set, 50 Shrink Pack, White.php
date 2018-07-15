@@ -46,7 +46,7 @@
                             <p class="price">$23.06</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/Blue-Sky-Plastic-Silver-Dinnerware/dp/B01EMPRSP8/ref=sr_1_1?m=A3W58OWURERN0R&s=merchant-items&ie=UTF8&qid=1526059419&sr=1-1&keywords=Blue+Sky+Plastic+Silver+Swirl+Dinnerware+Set%2C+50+Shrink+Pack%2C+White"
+                                <a href="https://www.amazon.com/dp/B01EMPRSP8/"
                                     target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>

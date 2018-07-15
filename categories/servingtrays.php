@@ -1,5 +1,5 @@
 <?php include 'header.php' ?>
- 
+
 <div id="all">
 
     <div id="content">
@@ -27,7 +27,44 @@
 
                 <div class="row products">
 
-                    <div class="col-md-4 col-sm-6" id="productimg">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php">
+                                            <img src="../img/products/bowls/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50/61tjWp20GhL._SL1320_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php">
+                                            <img src="../img/products/bowls/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50/61tjWp20GhL._SL1320_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php" class="invisible">
+                                <img src="../img/products/bowls/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50/61tjWp20GhL._SL1320_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php">Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50</a>
+                                </h5>
+                                <p class="price">$10.52</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Hard Plastic 6 Ounce Clear Dessert Bowls, Pack of 50.php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
                         <div class="product">
                             <div class="flip-container">
                                 <div class="flipper">
