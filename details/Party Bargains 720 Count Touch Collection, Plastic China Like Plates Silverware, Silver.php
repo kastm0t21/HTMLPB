@@ -77,6 +77,13 @@
                                 </a>
                             </div>
                         </div>
+                        <div class="row" class="size">
+                            <h4>Party Pack For:</h4>
+                            <a href="../details/Party Bargains White Silver 160 Plastic Plates & 320 Upscale Collection Silver Like Cutlery  Silver Touch Collection China Like Plate and Silverware - 480 Pcs  Combo Pack for 80 People.php"
+                                class="btn combo">80 Guests</a>
+                            <a href="../details/Party Bargains 720 Count Touch Collection, Plastic China Like Plates Silverware, Silver.php"
+                                class="btn combo disabled">120 Guests</a>
+                        </div>
                     </div>
 
                 </div>
@@ -107,10 +114,10 @@
                             on quality or practicality is evident in every one of their products, and their mission is to
                             enhance the most upscale event and please the most discriminating customer. Party bargains would
                             like to reassure you that while every dish is disposable our commitment to you is everlasting.</p>
-                        <h4>Size</h4>
+                        <!-- <h4>Size</h4>
                         <ul>
                             <li></li>
-                        </ul>
+                        </ul> -->
 
                         <!-- <blockquote>
                                     <p>

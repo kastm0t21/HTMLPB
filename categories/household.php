@@ -475,6 +475,47 @@
                         <!-- /.product -->
                     </div>
 
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count.php">
+                                            <img src="../img/products/house/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count/91IFTchdIIL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count.php">
+                                            <img src="../img/products/house/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count/91rW1kIDNXL._SL1500_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count.php"
+                                class="invisible">
+                                <img src="../img/products/house/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count/91IFTchdIIL._SL1500_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count.php">Party Bargains Clear Packing Tape | Strong & Heavy Duty Adhesive Moving Supplies | 55
+                                        Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage |
+                                        2 inch Wide | 6 Count</a>
+                                </h5>
+                                <p class="price">$11.99</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Clear Packing Tape  Strong & Heavy Duty Adhesive Moving Supplies  55 Yards per Roll Shipping Tape Excellent for Sealing, Packaging, Office & Storage  2 inch Wide  6 Count.php"
+                                        class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
                 </div>
                 <!-- /.col-md-9 -->
             </div>
@@ -482,4 +523,4 @@
         </div>
         <!-- /#content -->
 
-        <?php include 'footer.php' ?> 
+        <?php include 'footer.php' ?>

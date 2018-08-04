@@ -48,7 +48,7 @@
                             <p class="price">$18.99</p>
 
                             <p class="text-center buttons">
-                                <a href="https://www.amazon.com/dp/B07DLGRLKT" target="_blank" class="btn btn-primary">
+                                <a href="https://www.amazon.com/s/ref=bnav_search_go?url=me%3DA3W58OWURERN0R&field-keywords=plates+for+parties&field-asin=B07DLGRLKT" target="_blank" class="btn btn-primary">
                                     <i class="fa fa-shopping-cart"></i> Buy Now!</a>
                             </p>
 

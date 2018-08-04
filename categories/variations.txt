@@ -6,7 +6,19 @@
 
 <div>
     <h4>Related Products:</h4>
-    
-    
 
+
+
+</div>
+
+
+
+<div class="row" class="size">
+    <h4>Party Pack For:</h4>
+    <a href="../details/"
+        class="btn combo">40 Guests</a>
+    <a href="../details/e"
+        class="btn combo">80 Guests</a>
+    <a href="../details/"
+        class="btn combo">120 Guests</a>
 </div>

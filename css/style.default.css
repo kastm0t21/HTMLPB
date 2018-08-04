@@ -2073,3 +2073,20 @@ address {
   margin-right: auto; */
   font-size: 20px;
 }
+
+.combo {
+  -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
+  border: solid 2px transparent;
+  border-width: 4px 10px 4px 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.product-slider .product {
+  height: 400px;
+  width: auto;
+}

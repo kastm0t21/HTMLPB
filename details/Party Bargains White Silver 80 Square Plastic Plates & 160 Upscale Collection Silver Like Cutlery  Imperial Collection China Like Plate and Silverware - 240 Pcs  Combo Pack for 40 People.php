@@ -78,11 +78,13 @@
                             </div>
                         </div>
                         <div class="row" class="size">
-                            <h4>Combo Pack:</h4>
+                            <h4>Party Pack For:</h4>
                             <a href="../details/Party Bargains White Silver 80 Square Plastic Plates &amp; 160 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 240 Pcs  Combo Pack for 40 People.php"
-                                class="btn sizes disabled">1</a>
+                                class="btn combo disabled">40 Guest</a>
+                            <a href="../details/Party Bargains White Silver 160 Square Plastic Plates & 320 Upscale Collection Silver Like Cutlery  Imperial Collection China Like Plate and Silverware - 480 Pcs  Combo Pack for 80 People.php"
+                                class="btn combo">80 Guest</a>
                             <a href="../details/Party Bargains White Silver 240 Square Plastic Plates &amp; 480 Upscale Collection Cutlery  Imperial Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php"
-                                class="btn sizes">2</a>
+                                class="btn combo">120 Guests</a>
                         </div>
                     </div>
 

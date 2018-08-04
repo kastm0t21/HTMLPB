@@ -72,33 +72,33 @@
                             <div class="flip-container">
                                 <div class="flipper">
                                     <div class="front">
-                                        <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count.php">
+                                        <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count - Copy.php">
                                             <img src="../img/products/plates/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border 7.25 Inch & 10 Inch 20 Pieces Each  40 Count/81aFUTkBLsL._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                     <div class="back">
-                                        <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count.php">
+                                        <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count - Copy.php">
                                             <img src="../img/products/plates/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border 7.25 Inch & 10 Inch 20 Pieces Each  40 Count/91uISuQriML._SL1500_.jpg"
                                                 alt="" class="img-responsive">
                                         </a>
                                     </div>
                                 </div>
                             </div>
-                            <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count.php"
+                            <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count - Copy.php"
                                 class="invisible">
                                 <img src="../img/products/plates/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border 7.25 Inch & 10 Inch 20 Pieces Each  40 Count/81aFUTkBLsL._SL1500_.jpg"
                                     alt="" class="img-responsive">
                             </a>
                             <div class="text">
                                 <h5>
-                                    <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count.php">Disposable Plastic Plates Combo | Premium Quality White Dinnerware Set With Gold Border
+                                    <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count - Copy.php">Disposable Plastic Plates Combo | Premium Quality White Dinnerware Set With Gold Border
                                         | Excellent for Weddings, Engagement Parties & More | 7.25 Inch & 10 Inch 20 Pieces
                                         Each | 40 Count</a>
                                 </h5>
                                 <p class="price">$18.99</p>
                                 <p class="buttons">
-                                    <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count.php"
+                                    <a href="../details/Disposable Plastic Plates Combo  Premium Quality White Dinnerware Set With Gold Border  Excellent for Weddings, Engagement Parties & More  7.25 Inch & 10 Inch 20 Pieces Each  40 Count - Copy.php"
                                         class="btn btn-primary">View Details</a>
                                 </p>
 

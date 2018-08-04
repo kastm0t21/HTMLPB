@@ -72,11 +72,13 @@
                             </div>
                         </div>
                         <div class="row" class="size">
-                            <h4>Combo Pack:</h4>
+                            <h4>Party Pack For:</h4>
                             <a href="../details/Party Bargains Disposable Plastic Plates White Silver  Heavyweight &amp; Premium Quality China Like Dinner Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
-                                class="btn sizes">1</a>
+                                class="btn combo">40 Guests</a>
+                            <a href="../details/Party Bargains White Silver 160 Plastic Plates & 320 Upscale Collection Silver Like Cutlery  Signature Collection China Like Plate and Silverware - 480 Pcs  Combo Pack for 80 People.php"
+                                class="btn combo">80 Guests</a>
                             <a href="../details/Party Bargains White Silver 240 Plastic Plates & 480 Upscale Collection Cutlery  Signature Collection China Like Silver border Plate and Elegant Silverware - 720 Pcs  Combo Pack for 120 People.php"
-                                class="btn sizes disabled">2</a>
+                                class="btn combo disabled">120 Guests</a>
                         </div>
                     </div>
 

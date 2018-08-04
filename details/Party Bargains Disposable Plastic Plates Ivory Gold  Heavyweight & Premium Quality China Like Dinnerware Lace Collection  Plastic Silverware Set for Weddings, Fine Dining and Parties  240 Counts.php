@@ -81,11 +81,13 @@
                             </div>
                         </div>
                         <div class="row" class="size">
-                            <h4>Combo Pack:</h4>
+                            <h4>Party Pack For:</h4>
                             <a href="../details/Party Bargains Disposable Plastic Plates Ivory Gold  Heavyweight &amp; Premium Quality China Like Dinnerware Lace Collection  Plastic Silverware Set for Weddings, Fine Dining and Parties  240 Counts.php"
-                                class="btn sizes disabled">1</a>
+                                class="btn combo disabled">40 Guests</a>
+                            <a href="../details/Party Bargains Ivory Gold 160 Plastic Plates & 320 Upscale Collection Silver Like Cutlery  Lace Collection China Like Plate and Silverware - 480 Pcs  Combo Pack for 80 People.php"
+                                class="btn combo">80 Guests</a>
                             <a href="../details/Lace Collection, 720 Pieces Plastic China Plates Silverware Combo for 120 People (240 Lace Collections Ivory Plates, 480 Upscale Collection Silver Like Cutlery).php"
-                                class="btn sizes">2</a>
+                                class="btn combo">240 Guests</a>
                         </div>
                     </div>
 

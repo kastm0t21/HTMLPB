@@ -80,11 +80,13 @@
                             </div>
                         </div>
                         <div class="row" class="size">
-                            <h4>Combo Pack:</h4>
+                            <h4>Party Pack For:</h4>
                             <a href="../details/Lace Collection, 240 Pieces Plastic China Plates Silverware Combo for 40 People (80 Lace Collections White Plates, 160 Upscale Collection Silver Like Cutlery).php"
-                                class="btn sizes disabled">1</a>
+                                class="btn combo disabled">40 Guests</a>
+                            <a href="../details/Party Bargains White Silver 160 Plastic Plates & 320 Upscale Collection Silver Like Cutlery  Lace Collection China Like Plate and Silverware - 480 Pcs  Combo Pack for 80 People"
+                                class="btn combo">80 Guests</a>
                             <a href="../details/Party Bargains lacepartywhite120 120lace White 240 Plastic 480 Upscale Cutlery  Lace Collection China Like Silver Border Plate and Elegant Silverwar.php"
-                                class="btn sizes">2</a>
+                                class="btn combo">120 Guests</a>
                         </div>
                     </div>
 

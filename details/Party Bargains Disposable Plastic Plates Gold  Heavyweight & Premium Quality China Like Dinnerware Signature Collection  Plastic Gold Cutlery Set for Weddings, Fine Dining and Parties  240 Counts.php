@@ -64,13 +64,15 @@
                             </div>
                         </div>
                         <div class="row" class="size">
-                            <h4>Combo Pack:</h4>
+                            <h4>Party Pack For:</h4>
                             <a href="../details/Party Bargains 240 Piece Signature Collection Gold Plastic China Like Plates Silverware Combo for 40 People (80 Signature Collection White Plates with Gold Border).php"
-                                class="btn sizes">1</a>
+                                class="btn combo">40 Guests</a>
                             <a href="../details/Party Bargains Disposable Plastic Plates Gold  Heavyweight &amp; Premium Quality China Like Dinnerware Signature Collection  Plastic Gold Cutlery Set for Weddings, Fine Dining and Parties  240 Counts.php"
-                                class="btn sizes disabled">2</a>
+                                class="btn combo disabled">40 Guests</a>
+                            <a href="../details/Party Bargains White Gold 160 Plastic Plates & 320 Upscale Collection Silver Like Cutlery  Signature Collection China Like Plate and Silverware - 480 Pcs  Combo Pack for 80 People.php"
+                                class="btn combo">80 Guests</a>
                             <a href="../details/Party Bargains 720 Count Signature Collection, Plastic China Like Plates Silverware Combo, Gold.php"
-                                class="btn sizes">3</a>
+                                class="btn combo">120 Guests</a>
                         </div>
                     </div>
 

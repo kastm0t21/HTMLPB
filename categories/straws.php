@@ -1,4 +1,4 @@
-<?php include 'header.php' ?> 
+<?php include 'header.php' ?>
 
 <div id="all">
 
@@ -57,6 +57,46 @@
                                 <p class="price">$6.98</p>
                                 <p class="buttons">
                                     <a href="../details/Party Bargains 2279 Disposable Drinking Straws, 7.75 inch.php" class="btn btn-primary">View Details</a>
+                                </p>
+
+                            </div>
+                            <!-- /.text -->
+                        </div>
+                        <!-- /.product -->
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                        <div class="product">
+                            <div class="flip-container">
+                                <div class="flipper">
+                                    <div class="front">
+                                        <a href="../details/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts.php">
+                                            <img src="../img/products/house/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts/81SkFYG0cbL._SX522_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                    <div class="back">
+                                        <a href="../details/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts.php">
+                                            <img src="../img/products/house/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts/81SeVY8+fvL._SX522_.jpg"
+                                                alt="" class="img-responsive">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <a href="../details/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts.php"
+                                class="invisible">
+                                <img src="../img/products/house/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts/81SkFYG0cbL._SX522_.jpg"
+                                    alt="" class="img-responsive">
+                            </a>
+                            <div class="text">
+                                <h5>
+                                    <a href="../details/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts.php">Party Bargains Smoothie Straws | BPA-Free & Reusable Assorted Bright Colors Drinking
+                                        Straw | Perfect for Milkshake, Boba, Juices & More | Jumbo Pack 100 Counts</a>
+                                </h5>
+                                <p class="price">$5.99</p>
+                                <p class="buttons">
+                                    <a href="../details/Party Bargains Smoothie Straws  BPA-Free & Reusable Assorted Bright Colors Drinking Straw  Perfect for Milkshake, Boba, Juices & More  Jumbo Pack 100 Counts.php"
+                                        class="btn btn-primary">View Details</a>
                                 </p>
 
                             </div>
